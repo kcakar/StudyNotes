@@ -122,8 +122,11 @@ The most powerful user in the account, the only user who can delete every resour
 1. **Cloud Adaptation Framework**
     - Perspectives and foundational capabilities
 2. **Cloud Transformation Domains**
+        ![alt text](https://github.com/kcakar/StudyNotes/blob/master/AWS/aws1.png?raw=true)
 3. **Cloud Transformation Phases**
+        ![alt text](https://github.com/kcakar/StudyNotes/blob/master/AWS/aws2.png?raw=true)
 4. **Summary (What You Need to Know)**
+        ![alt text](https://github.com/kcakar/StudyNotes/blob/master/AWS/aws3.png?raw=true)
 
 ### Well-Architected Framework
 
