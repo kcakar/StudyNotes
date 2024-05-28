@@ -1,3 +1,22 @@
+| Topic                        | Description                                     |
+|------------------------------|-------------------------------------------------|
+| [Terminology](#terminology) | Introduction to key terms used in AWS.          |
+| [AWS Payment Models](#aws-payment-models) | Overview of different payment models in AWS. |
+| [Cloud Computing](#cloud-computing) | Introduction to cloud computing and its advantages. |
+| [Advantages](#advantages)    | Benefits of utilizing cloud computing services. |
+| [Types of Computing Services](#types-of-computing-services) | Different services offered by AWS. |
+| [Benefits](#benefits)        | Advantages of using AWS services.               |
+| [CapEx and OpEx](#capex-and-opex) | Understanding Capital Expenditure and Operational Expenditure. |
+| [Latency](#latency)          | Explanation of latency and its significance.    |
+| [AWS Regions](#aws-regions)  | Overview of AWS geographical regions and availability zones. |
+| [Cloud Deployment Models](#cloud-deployment-models) | Different models for deploying cloud services. |
+| [AWS Service Categories](#aws-service-categories) | Categories of services offered by AWS. |
+| [AWS Management Tools](#aws-management-tools) | Tools provided by AWS for managing resources. |
+| [Root User](#root-user)      | Explanation of the Root User in AWS.            |
+| [Cloud Computing Models](#cloud-computing-models) | Various models of cloud computing.              |
+| [AWS Frameworks](#aws-frameworks) | Frameworks provided by AWS for cloud architecture. |
+
+
 ## Terminology
 
 - **Data Center**: A group of servers. AWS has many data centers across the globe.
