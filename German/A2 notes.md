@@ -185,7 +185,7 @@ The conjunctions "denn" and "weil" are used to give a reason.
   - (I stay at home because I am sick.)
 
 ### Summary Table
-```
+
 | Conjunction | Type          | Example                                                | Translation                                   |
 |-------------|---------------|--------------------------------------------------------|-----------------------------------------------|
 | **weil**    | Subordinating | "Ich bleibe zu Hause, weil ich krank bin."             | I stay at home because I am sick.             |
@@ -193,7 +193,7 @@ The conjunctions "denn" and "weil" are used to give a reason.
 | **denn**    | Coordinating  | "Ich bleibe zu Hause, denn ich bin krank."             | I stay at home because I am sick.             |
 
 By mastering these conjunctions and understanding their usage, you will be able to form more complex and nuanced sentences in German.
-```
+
 
 ## Activities
 
@@ -215,7 +215,6 @@ By mastering these conjunctions and understanding their usage, you will be able 
 
 ### "werden" (will)
 
-|            |        |
 |------------|--------|
 | ich        | werde  |
 | du         | wirst  |
