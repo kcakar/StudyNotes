@@ -247,4 +247,3 @@ By mastering these conjunctions and understanding their usage, you will be able 
   - werden + age
     - Sie wird bald 40.
       - (She will soon be 40.)
-```
