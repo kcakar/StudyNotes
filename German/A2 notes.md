@@ -214,7 +214,7 @@ By mastering these conjunctions and understanding their usage, you will be able 
 | sie/Sie  | hatten | waren |
 
 ### "werden" (will)
-
+| Person     | verb   |
 |------------|--------|
 | ich        | werde  |
 | du         | wirst  |
