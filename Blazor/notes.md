@@ -66,6 +66,7 @@
         currentCount++;
     }
 }
+```
 
 ### Interactive Server Components
 - **Description**: Handle UI interactions and updates over a WebSocket connection with the browser.
@@ -121,7 +122,7 @@
   List<int> xs = new();
   List<int> ys = new(capacity: 10_000);
   List<int> zs = new() { Capacity = 20_000 };
-
+  ```
 
 ## C# Features
 ### Target-typed `new`
@@ -129,7 +130,9 @@
 
 ### Instantiation of Anonymous Types
 - **Example**:
+  ```csharp
   var example = new { Greeting = "Hello", Name = "World" };  
+  ```
 
 
 ## To Do
