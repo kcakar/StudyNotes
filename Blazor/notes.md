@@ -1,3 +1,26 @@
+# Table of Contents
+1. [Key Concepts in .NET and Blazor](#key-concepts)
+2. [Razor](#razor)
+3. [.NET Standard](#net-standard)
+4. [Supported .NET Implementations](#net-implementations)
+5. [POCO (Plain Old Class Object)](#poco)
+6. [ASP.NET](#aspnet)
+7. [Blazor](#blazor)
+    - [How Blazor Works](#how-blazor-works)
+    - [Blazor Example](#blazor-example)
+    - [Interactive Server Components](#interactive-server-components)
+8. [Important Blazor Files](#important-blazor-files)
+9. [Key Blazor Directives](#key-blazor-directives)
+10. [Using Components](#using-components)
+11. [Component Parameters](#component-parameters)
+12. [@code Block](#code-block)
+13. [@rendermode InteractiveServer](#rendermode-interactiveserver)
+14. [Razor Component Naming](#razor-component-naming)
+15. [C# Features](#csharp-features)
+    - [Target-typed `new`](#target-typed-new)
+    - [Instantiation of Anonymous Types](#instantiation-of-anonymous-types)
+16. [To Do](#to-do)
+
 # Key Concepts in .NET and Blazor
 
 ## Razor

@@ -1,3 +1,23 @@
+# Table of Contents
+1. [German Sentence Structure](#german-sentence-structure)
+2. [Present Tense](#present-tense)
+3. [Past Tense](#past-tense)
+4. [Future Tense](#future-tense)
+5. [Subordinate Clauses](#subordinate-clauses)
+6. [Summary](#summary)
+7. [Conjunctions: "denn" and "weil"](#conjunctions)
+8. [Coordinating Conjunctions (do not change the word order)](#coordinating-conjunctions)
+9. [Subordinating Conjunctions (send the verb to the end of the clause)](#subordinating-conjunctions)
+10. [Sentence Structure Examples](#sentence-structure-examples)
+11. [Coordinating Conjunctions](#coordinating-conjunctions)
+12. [Subordinating Conjunctions](#subordinating-conjunctions)
+13. [Summary Table](#summary-table)
+14. [Activities](#activities)
+15. [Verb Conjugations](#verb-conjugations)
+16. ["haben" and "sein"](#haben-and-sein)
+17. ["werden" (will)](#werden)
+18. [Examples with "werden"](#examples-with-werden)
+
 ## German Sentence Structure
 
 ### Present Tense
