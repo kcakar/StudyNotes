@@ -25,3 +25,13 @@
 - **Stadtlauf** (city run)
 - **bestimmt** (certainly, definitely)
 - **berühmt** (famous)
+- **draußen** (outside)
+anziehen
+sonst
+verloren
+arbeitslos 
+gedacht
+eigen
+tauchen
+Ausbildung
+deshalb
