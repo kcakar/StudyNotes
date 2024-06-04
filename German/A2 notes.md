@@ -1,24 +1,112 @@
 # Table of Contents
 1. [haben and sein](#haben-and-sein)
-2. [werden](#werden)
-3. [Präsens Tense in German](#präsens-tense-in-german)
-4. [The Präteritum Tense in German](#the-präteritum-tense-in-german)
-5. [The Perfekt Tense in German](#the-perfekt-tense-in-german)
-6. [The Plusquamperfekt Tense in German](#the-plusquamperfekt-tense-in-german)
-7. [The Future Tense (Futur I) in German](#the-future-tense-futur-i-in-german)
-8. [German Conjunctions for B1 Level](#german-conjunctions-for-b1-level)
-9. [Modal Particles](#modal-particles)
-10. [Verb-Subject Inversion](#verb-subject-inversion)
-11. [Activities](#activities)
+2. [Cases](#cases)
+3. [Werden](#werden)
+4. [Präsens Tense in German](#präsens-tense-in-german)
+5. [The Präteritum Tense in German](#the-präteritum-tense-in-german)
+6. [The Perfekt Tense in German](#the-perfekt-tense-in-german)
+7. [The Plusquamperfekt Tense in German](#the-plusquamperfekt-tense-in-german)
+8. [The Future Tense (Futur I) in German](#the-future-tense-futur-i-in-german)
+9. [German Conjunctions for B1 Level](#german-conjunctions-for-b1-level)
+10. [Modal Particles](#modal-particles)
+11. [Verb-Subject Inversion](#verb-subject-inversion)
+12. [Activities](#activities)
 
 ___
-### Cheatsheet
+### Topics to study (✅Ready, ❌ Missing, ⏳ In Progress)
+| Topics                              |                   |                   |                   |                   |
+|-----------------------------------------|-------------------|-------------------|-------------------|-------------------|
+| ⏳ Nouns (Substantive)                   | ⏳ Verbs (Verben) | ⏳ Adjectives (Adjektive) | ❌ Adverbs (Adverbien) | ❌ Pronouns (Pronomen) |
+| ❌ Prepositions (Präpositionen)          | ❌ Conjunctions (Konjunktionen) | ⏳ Sentence Structure (Satzstruktur) | ⏳ Cases (Fälle) | ⏳ Tenses (Zeiten) |
+| ❌ Negation (Verneinung)                 | ❌ Indirect Speech (Indirekte Rede) | ❌ Modal Particles (Modalpartikeln) | ❌ Relative Clauses (Relativsätze) | ❌ Moods (Stimmungen) |
+| ❌ Passive Voice (Passiv)                | ❌ Comparisons (Vergleiche) | ❌ Word Formation (Wortbildung) | ⏳ Numerals (Zahlen) | ❌ Expressions of Time and Temporal Adverbs (Zeitangaben und temporale Adverbien) |
+| ❌ Causal Clauses (Kausale Nebensätze)   | ❌ Conditional Clauses (Konditionale Nebensätze) | ❌ Purpose Clauses (Finalsätze) | ❌ Direct and Indirect Objects (Direkte und indirekte Objekte) |                   |
+
+___
+# Cheatsheet
 
 - **Present Tense:** Subject + Verb + Objects/Complements
 - **Past Tense (Simple):** Subject + Verb (simple past) + Objects/Complements
 - **Past Tense (Perfect):** Subject + Auxiliary Verb + Objects/Complements + Past Participle
 - **Future Tense:** Subject + Auxiliary Verb + Objects/Complements + Main Verb (infinitive)
 For subordinate clauses, the verb generally moves to the end of the clause.
+ 
+ ### Noun declensions
+ - **Definite Articles**:
+    - The definite article refers to a specific noun that is known to the speaker and the listener. In English, the definite article is "the".
+
+      | Case       | Masculine | Feminine | Neuter | Plural   |
+      |------------|-----------|----------|--------|----------|
+      | Nominative | der       | die      | das    | die      |
+      | Accusative | den       | die      | das    | die      |
+      | Dative     | dem       | der      | dem    | den      |
+      | Genitive   | des       | der      | des    | der      |
+
+    - Nominative: Der Hund bellt. (The dog barks.)
+    - Accusative: Ich sehe den Hund. (I see the dog.)
+    - Dative: Ich gebe dem Hund ein Leckerli. (I give the dog a treat.)
+    - Genitive: Das ist das Haus des Mannes. (That is the man's house.)  
+  &nbsp;    
+
+- **Indefinite Articles**:
+    - The indefinite article refers to a noun that is not specific or known to the listener. In English, the indefinite articles are "a" and "an".
+
+    | Case       | Masculine | Feminine | Neuter | Plural   |
+    |------------|-----------|----------|--------|----------|
+    | Nominative | ein       | eine     | ein    | keine    |
+    | Accusative | einen     | eine     | ein    | keine    |
+    | Dative     | einem     | einer    | einem  | keinen   |
+    | Genitive   | eines     | einer    | eines  | keiner   |
+
+    - Nominative: Ein Hund läuft auf der Straße. (A dog is running on the street.)
+    - Accusative: Ich sehe einen Hund. (I see a dog.)
+    - Dative: Ich gebe einem Hund ein Leckerli. (I give a dog a treat.)
+    - Genitive: Das ist das Haus eines Mannes. (That is a man's house.)
+
+### Pronoun tables
+- Personal pronouns:
+    | Case       | Singular 1st | Singular 2nd | Singular 3rd | Plural     |
+    |------------|--------------|--------------|--------------|------------|
+    | Nominative | ich          | du           | er/sie/es    | wir        |
+    | Accusative | mich         | dich         | ihn/sie/es   | uns        |
+    | Dative     | mir          | dir          | ihm/ihr/ihm  | uns        |
+    | Genitive   | meiner       | deiner       | seiner/ihrer/seiner | unserer    |
+
+    - Nominative: Ich lese. (I read.)
+    - Accusative: Ich sehe mich. (I see myself.)
+    - Dative: Ich helfe mir. (I help myself.)
+    - Genitive: Das ist meiner. (That is mine.)
+  &nbsp;
+- Possesive pronouns:
+    | Case       | Singular Masculine | Singular Feminine | Singular Neuter | Plural    |
+    |------------|---------------------|--------------------|-----------------|-----------|
+    | Nominative | mein                | meine              | mein            | unsere    |
+    | Accusative | meinen              | meine              | mein            | unsere    |
+    | Dative     | meinem              | meiner             | meinem          | unseren   |
+    | Genitive   | meines              | meiner             | meines          | unserer   |
+
+    - Nominative: Das ist mein Buch. (That is my book.)
+    - Accusative: Ich sehe mein Buch. (I see my book.)
+    - Dative: Ich gebe meinem Freund das Buch. (I give my friend the book.)
+    - Genitive: Das ist meines Vaters Auto. (That is my father's car.)
+- Object pronouns
+  | Person       | Singular        | Plural          |
+  |--------------|-----------------|-----------------|
+  | Subject      | ich (I)         | wir (we)        |
+  | Object       | mich (me)       | uns (us)        |
+  | Possessive   | mein(e) (mine) | unser(e) (ours) |
+
+  | Person       | Singular        | Plural          |
+  |--------------|-----------------|-----------------|
+  | Subject      | du (you)        | ihr (you)       |
+  | Object       | dich (you)      | euch (you)      |
+  | Possessive   | dein(e) (yours)| euer(e) (yours) |
+
+  | Person       | Singular                | Plural                  |
+  |--------------|-------------------------|-------------------------|
+  | Subject      | er/sie/es (he/she/it)   | sie (they)              |
+  | Object       | ihn/sie/es (him/her/it) | sie (them)              |
+  | Possessive   | sein(e) (his/hers/its)  | ihr(e) (theirs)        |
 
 ___
 # haben and sein
@@ -86,6 +174,142 @@ ___
     However, in German, the future tense can be used to express assumptions or deductions about past events. In this case, it implies that the speaker assumes or deduces that "they" turned 50 the day before the current point in time. 
 
     This construction is often used colloquially to express a strong assumption about past events when the speaker did not witness the event firsthand. It's similar to saying in English, "They must have turned 50 yesterday."
+___
+# Cases
+  - Practice identifying the function of nouns and pronouns in sentences to determine the appropriate case.
+  - Pay attention to verb and preposition usage, as they often determine the case required.
+  - Regularly review noun declensions and pronoun tables to strengthen case usage.
+  - Use exercises and practice materials to reinforce understanding and application of cases in different contexts.
+
+  ### 1. Nominative Case (Nominativ):
+  - Used for the subject of a sentence, the noun or pronoun performing the action.
+  - Examples:
+    - *Der Hund bellt.* (The dog is barking.)
+      - In this sentence, "Der Hund" is in the nominative case because it is the subject of the verb "bellt" (barks).
+      - **Verb Table:**
+    
+      | Person       | Singular          | Plural            |
+      |--------------|-------------------|-------------------|
+      | 1st          | Ich belle         | Wir bellen        |
+      | 2nd          | Du bellst         | Ihr bellt         |
+      | 3rd          | Er/sie/es bellt   | Sie bellen        |
+    
+    - *Sie ist Lehrerin.* (She is a teacher.)
+      - "Sie" (she) is the subject of the verb "ist" (is).
+      - **Verb Table:**
+    
+      | Person       | Singular          | Plural            |
+      |--------------|-------------------|-------------------|
+      | 1st          | Ich bin           | Wir sind          |
+      | 2nd          | Du bist           | Ihr seid          |
+      | 3rd          | Er/sie/es ist     | Sie sind          |
+
+  **Points to be careful of:**
+  - Subject-verb agreement: Ensure that the verb agrees with the subject in number and person.
+  - Noun gender: Be mindful of noun genders, as they affect article and adjective endings in the nominative case.
+
+  **Edge case:**
+  - In passive constructions, the subject of the active sentence becomes the object in the passive sentence. However, in German, the subject of the passive sentence remains in the nominative case.
+    - Example: *Der Hund beißt den Mann.* (The dog bites the man.)
+      - Passive: *Der Mann wird vom Hund gebissen.* (The man is bitten by the dog.)
+
+  ### 2. Accusative Case (Akkusativ):
+  - Used for the direct object of a sentence, the noun or pronoun receiving the action.
+  - Examples:
+    - *Ich sehe den Hund.* (I see the dog.)
+      - "Den Hund" is in the accusative case because it receives the action of seeing.
+      - **Verb Table:**
+    
+      | Person       | Singular          | Plural            |
+      |--------------|-------------------|-------------------|
+      | 1st          | Ich sehe          | Wir sehen         |
+      | 2nd          | Du siehst         | Ihr seht          |
+      | 3rd          | Er/sie/es sieht   | Sie sehen         |
+    
+    - *Er kauft ein Buch.* (He buys a book.)
+      - "Ein Buch" is the direct object of the verb "kauft" (buys).
+      - **Verb Table:**
+    
+      | Person       | Singular          | Plural            |
+      |--------------|-------------------|-------------------|
+      | 1st          | Ich kaufe         | Wir kaufen        |
+      | 2nd          | Du kaufst         | Ihr kauft         |
+      | 3rd          | Er/sie/es kauft   | Sie kaufen        |
+
+  **Points to be careful of:**
+  - Distinguishing between accusative and nominative articles and pronouns, especially with masculine nouns.
+  - Some prepositions always trigger the accusative case when used with a noun.
+
+  **Edge case:**
+  - Some verbs can take either accusative or dative objects, with a change in meaning.
+    - Example: *Ich folge dem Rat.* (I follow the advice.) - Dative
+      - *Ich befolge den Rat.* (I follow the advice.) - Accusative
+
+  ### 3. Dative Case (Dativ):
+  - Used to indicate the indirect object of a sentence, often translated to 'to' or 'for' in English.
+  - Examples:
+    - *Ich gebe dem Mann das Buch.* (I give the book to the man.)
+      - "Dem Mann" is in the dative case because he is the indirect object receiving the book.
+      - **Dative Pronoun Table:**
+    
+      | Person       | Singular            | Plural             |
+      |--------------|---------------------|--------------------|
+      | 1st          | mir                 | uns                |
+      | 2nd          | dir                 | euch               |
+      | 3rd          | ihm/ihr/ihm         | ihnen              |
+    
+    - *Er hilft der Frau.* (He helps the woman.)
+      - "Der Frau" is the indirect object of the verb "hilft" (helps).
+      - **Verb Table:**
+    
+      | Person       | Singular            | Plural             |
+      |--------------|---------------------|--------------------|
+      | 1st          | Ich helfe           | Wir helfen         |
+      | 2nd          | Du hilfst           | Ihr helft          |
+      | 3rd          | Er/sie/es hilft     | Sie helfen         |
+
+  **Points to be careful of:**
+  - Distinguishing between dative and accusative articles and pronouns.
+  - Some prepositions always trigger the dative case when used with a noun.
+
+  **Edge case:**
+  - Certain verbs and prepositions can take either the dative or accusative case, leading to a change in meaning.
+
+  **Explanation of the case:**
+  - The dative case in German typically indicates the indirect object of a sentence, showing to whom or for whom an action is done. It's often used after certain verbs and prepositions to denote this indirect relationship. For example, in "Ich gebe dem Mann das Buch" (I give the book to the man), "dem Mann" is in the dative case as he is the recipient of the action of giving.
+
+
+  ### 4. Genitive Case (Genitiv):
+  - Used to indicate possession or association, often translated to 'of' in English.
+  - Examples:
+    - *Das Auto meines Vaters.* (My father's car.)
+      - "Meines Vaters" indicates possession of the car.
+      - **Possessive Pronoun Table:**
+    
+      | Gender       | Singular            | Plural             |
+      |--------------|---------------------|--------------------|
+      | Masculine    | meines Vaters       | meiner Väter       |
+      | Feminine     | meiner Mutter       | meiner Mütter      |
+      | Neuter       | meines Kindes       | meiner Kinder      |
+    
+    - *Der Hut des Mannes.* (The man's hat.)
+      - "Des Mannes" indicates possession of the hat.
+      - **Definite Article Table:**
+    
+      | Gender       | Singular            | Plural             |
+      |--------------|---------------------|--------------------|
+      | Masculine    | des Mannes          | der Männer         |
+      | Feminine     | der Frau            | der Frauen         |
+      | Neuter       | des Kindes          | der Kinder         |
+
+    **Points to be careful of:**
+    - Ensuring proper agreement between the possessive pronoun/article and the possessed noun.
+    - Recognizing genitive prepositions that always trigger the genitive case when used with a noun.
+
+    **Edge case:**
+    - Some expressions and compound nouns might use the genitive case instead of the dative case for possession.
+
+
 ___
 # Präsens Tense in German
 
@@ -440,6 +664,49 @@ The conjunctions "denn" and "weil" are used to give a reason.
     - (I like to spend my free time with Severin and Mia because they are active and funny.)
   - Pia fragt Paula nach ihrer Meinung, denn Paula ist immer sehr ehrlich.
     - (Pia asks Paula for her opinion because Paula is always very honest.)
+
+___
+# German Moods
+  In German grammar, "mood" refers to the grammatical category that indicates the speaker's attitude toward the action or state of the verb. It helps convey the speaker's intention, whether it's making a statement, asking a question, giving a command, expressing possibility, or conveying hypothetical situations.
+
+  There are three main moods in German: Indicative, Subjunctive, and Imperative. Each mood serves different purposes and is used in various contexts to express different attitudes or intentions in sentences.
+  
+  ### 1. Indicative Mood (Indikativ)
+  The indicative mood is used for making statements, asking questions, or expressing facts and reality.
+
+  **Examples:**
+  - Statement: *Ich gehe zur Schule.* (I go to school.)
+  - Question: *Gehst du zur Schule?* (Do you go to school?)
+  - Fact: *Die Sonne scheint.* (The sun is shining.)
+
+  ### 2. Subjunctive Mood (Konjunktiv)
+
+  #### a. Subjunctive I (Konjunktiv I)
+
+  Subjunctive I is used for indirect speech, reported speech, and to express polite requests or wishes.
+
+  **Examples:**
+  - Indirect Speech: *Er sagte, er sei müde.* (He said he was tired.)
+  - Reported Speech: *Sie behauptete, sie könne gut singen.* (She claimed she could sing well.)
+  - Polite Request: *Ich hätte gerne eine Tasse Kaffee.* (I would like a cup of coffee.)
+
+  #### b. Subjunctive II (Konjunktiv II)
+
+  Subjunctive II is used to express hypothetical situations, wishes, desires, or unreal conditions. It's also used in indirect speech, especially for expressing doubt or uncertainty.
+
+  **Examples:**
+  - Hypothetical Situation: *Wenn ich reich wäre, würde ich um die Welt reisen.* (If I were rich, I would travel around the world.)
+  - Wish: *Ich wünschte, es wäre Sommer.* (I wish it were summer.)
+  - Unreal Condition: *Wenn ich mehr Zeit hätte, würde ich mehr lesen.* (If I had more time, I would read more.)
+
+  ### 3. Imperative Mood (Imperativ)
+
+  The imperative mood is used to give commands, instructions, or requests.
+
+  **Examples:**
+  - Command: *Komm hierher!* (Come here!)
+  - Instruction: *Öffnen Sie bitte das Fenster.* (Please open the window.)
+  - Request: *Hilf mir, bitte.* (Help me, please.)
 
 ___
 # German Conjunctions for B1 Level
