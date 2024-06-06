@@ -981,3 +981,52 @@ ___
 # Activities
 - Sie können schwimmen, wandern, Rad fahren, Kajak fahren oder segeln.
   - (You can swim, hike, bike, kayak, or sail.)
+
+# Restaurants
+| Ordering                       | Requesting                                           | Paying                         | Leaving a tip                                        |
+|--------------------------------|------------------------------------------------------|--------------------------------|------------------------------------------------------|
+| Ich nehme/möchte …             | Können Sie uns noch … bringen, bitte.                | Zahlen bitte.                  | Das stimmt so.                                       |
+| Ich hätte gern …               | Kann ich … mit/ohne … haben, bitte.                  | Ich möchte zahlen, bitte.      | Machen Sie … (Euro).                                 |
+| Für mich …, bitte.             |                                                      | Kann ich zahlen, bitte.        |    
+
+Sure, here is the breakdown of each sentence with the English translation in parentheses:
+
+- **Ich hätte gern ein Bier**  
+  (I would like a beer)
+
+- **Haben Sie schon gewählt?**  
+  (Have you already chosen?)
+
+- **Als Vorspeise nehme ich die Tomatensuppe.**  
+  (For the starter, I'll take the tomato soup.)
+
+- **Danach hätte ich gern den Fisch mit Kartoffeln und Gemüse.**  
+  (After that, I would like the fish with potatoes and vegetables.)
+
+- **Können Sie uns noch etwas Brot bringen?**  
+  (Could you bring us some more bread?)
+
+- **Natürlich, ich bringe es sofort. Haben Sie sonst noch einen Wunsch?**  
+  (Of course, I'll bring it right away. Do you have any other requests?)
+
+- **Hat es geschmeckt?**  
+  (Did you enjoy the meal?)
+
+- **Das stimmt so.**  
+  (Keep the change.)
+
+- **Schönen Tag noch.**  
+  (Have a nice day.)
+
+- **Zahlen bitte.**  
+  (The bill, please.)
+
+- **Getrennt oder zusammen?**  
+  (Separate or together?)
+
+
+
+
+
+
+

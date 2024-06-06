@@ -55,13 +55,29 @@ beruflich
 Restaurantbewertung
 Die Hauptgerichte
 Zutaten 
-
-
+eigentlich
+das viertel
+die nachbarn
+einladen
+Schokoeis
+Erzähl
+billig
+der hof
+sogar
+hängematte
+backen
+kuchen
+Pilz
 
 
 
 
 ## Sentences
+du hast recht. das klingt fantastisch
+Erzöhl mal Karl, wie ist deine wohnung
+klar, mache ich!
+du musst mich mal einladen
+das klingt toll
 Hier stimmt einfach alles
 Hoffentlich bleibt das noch lange so.
 Hier gibt es Pizza und Pasta.
