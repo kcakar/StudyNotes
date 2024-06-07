@@ -1113,6 +1113,50 @@ ___
 </details>
 
 ___
+#### Expressing advice/recommendation/warning
+<details>
+  <summary>Expressing advice/recommendation/warning</summary>
+
+
+  | Type                  | Expression                             |
+  |-----------------------|----------------------------------------|
+  |Warning                | Pass auf! … ist heiß.                  |
+  |Warning                | Sei vorsichtig! … ist heiß.            |
+  |Warning                | Achtung! Das ist zu viel …!            |
+  |Advice/recommendation  | Mach … gleich!                         |
+  |Advice/recommendation  | …darf nicht zu … sein / … muss … sein. |
+</details>
+
+___
+#### Indefinite Pronouns
+<details>
+  <summary>Indefinite Pronouns</summary>
+
+
+  | Pronoun       | German                     | English             |
+  |---------------|----------------------------|----------------------------|
+  | jemand        | Jemand hat angerufen.     | Someone called.            |
+  | niemand       | Niemand war zu Hause.     | Nobody was home.           |
+  | man           | Man sollte vorsichtig sein. | One should be careful.    |
+  | jeder         | Jeder hat eine Meinung.   | Everyone has an opinion.  |
+  | alle          | Alle sind eingeladen.     | Everyone is invited.      |
+  | alles         | Alles ist möglich.        | Everything is possible.    |
+  | etwas         | Ich habe etwas vergessen. | I forgot something.       |
+  | nichts        | Es gibt nichts zu essen.  | There is nothing to eat.  |
+  | irgendjemand  | Irgendjemand hat angerufen. | Somebody called.        |
+  | irgendetwas   | Ich habe irgendetwas gehört. | I heard something.      |
+  | irgendwer     | Irgendwer wird helfen.    | Somebody will help.       |
+  | irgendwo      | Ich muss irgendwohin gehen. | I have to go somewhere. |
+  | irgendwann    | Wir treffen uns irgendwann. | We'll meet sometime.   |
+  | irgendwie     | Das wird schon irgendwie klappen. | It will work out somehow. |
+  | etliche       | Es gibt etliche Gründe.   | There are several reasons. |
+  | einige        | Einige Leute waren dort.  | Some people were there.   |
+  | mehrere       | Ich habe mehrere Bücher gelesen. | I read several books.    |
+</details>
+
+___
+
+## Topic based reminders
 #### Activities
 <details>
   <summary>Activities</summary>
@@ -1170,43 +1214,3 @@ ___
 </details>
 
 ___
-#### Expressing advice/recommendation/warning
-<details>
-  <summary>Expressing advice/recommendation/warning</summary>
-
-
-  | Type                  | Expression                             |
-  |-----------------------|----------------------------------------|
-  |Warning                | Pass auf! … ist heiß.                  |
-  |Warning                | Sei vorsichtig! … ist heiß.            |
-  |Warning                | Achtung! Das ist zu viel …!            |
-  |Advice/recommendation  | Mach … gleich!                         |
-  |Advice/recommendation  | …darf nicht zu … sein / … muss … sein. |
-</details>
-
-___
-#### Indefinite Pronouns
-<details>
-  <summary>Indefinite Pronouns</summary>
-
-
-  | Pronoun       | German                     | English             |
-  |---------------|----------------------------|----------------------------|
-  | jemand        | Jemand hat angerufen.     | Someone called.            |
-  | niemand       | Niemand war zu Hause.     | Nobody was home.           |
-  | man           | Man sollte vorsichtig sein. | One should be careful.    |
-  | jeder         | Jeder hat eine Meinung.   | Everyone has an opinion.  |
-  | alle          | Alle sind eingeladen.     | Everyone is invited.      |
-  | alles         | Alles ist möglich.        | Everything is possible.    |
-  | etwas         | Ich habe etwas vergessen. | I forgot something.       |
-  | nichts        | Es gibt nichts zu essen.  | There is nothing to eat.  |
-  | irgendjemand  | Irgendjemand hat angerufen. | Somebody called.        |
-  | irgendetwas   | Ich habe irgendetwas gehört. | I heard something.      |
-  | irgendwer     | Irgendwer wird helfen.    | Somebody will help.       |
-  | irgendwo      | Ich muss irgendwohin gehen. | I have to go somewhere. |
-  | irgendwann    | Wir treffen uns irgendwann. | We'll meet sometime.   |
-  | irgendwie     | Das wird schon irgendwie klappen. | It will work out somehow. |
-  | etliche       | Es gibt etliche Gründe.   | There are several reasons. |
-  | einige        | Einige Leute waren dort.  | Some people were there.   |
-  | mehrere       | Ich habe mehrere Bücher gelesen. | I read several books.    |
-</details>
