@@ -7,6 +7,8 @@
 | ❌ Passive Voice (Passiv)                | ❌ Comparisons (Vergleiche) | ❌ Word Formation (Wortbildung) | ⏳ Numerals (Zahlen) | ❌ Expressions of Time and Temporal Adverbs (Zeitangaben und temporale Adverbien) |
 | ❌ Causal Clauses (Kausale Nebensätze)   | ❌ Conditional Clauses (Konditionale Nebensätze) | ❌ Purpose Clauses (Finalsätze) | ❌ Direct and Indirect Objects (Direkte und indirekte Objekte) |                   |
 
+___
+
 #### Cheatsheet
   <details>
   <summary>Cheatsheet</summary>
@@ -16,6 +18,8 @@
   - **Past Tense (Perfect):** Subject + Auxiliary Verb + Objects/Complements + Past Participle
   - **Future Tense:** Subject + Auxiliary Verb + Objects/Complements + Main Verb (infinitive)
   For subordinate clauses, the verb generally moves to the end of the clause.
+
+___
 
   ##### Noun declensions
   - **Definite Articles**:
@@ -48,6 +52,8 @@
       - Accusative: Ich sehe einen Hund. (I see a dog.)
       - Dative: Ich gebe einem Hund ein Leckerli. (I give a dog a treat.)
       - Genitive: Das ist das Haus eines Mannes. (That is a man's house.)
+
+___
 
   ##### Pronoun tables
   - Personal pronouns:
@@ -95,6 +101,8 @@
     | Possessive   | sein(e) (his/hers/its)  | ihr(e) (theirs)        |
   </details>
 
+___
+
 #### Haben and Sein
 <details>
   <summary>Haben and Sein</summary>
@@ -110,6 +118,8 @@
   | ihr      | hattet                    | wart                      | Ihr hattet Glück. (You had luck.) Ihr wart spät dran. (You were late.) |
   | sie/Sie  | hatten                    | waren                     | Sie hatten ein Auto. (They had a car.) Sie waren am Strand. (They were at the beach.) |
 </details>
+
+___
 
 #### werden
 <details>
@@ -170,6 +180,8 @@
       This construction is often used colloquially to express a strong assumption about past events when the speaker did not witness the event firsthand. It's similar to saying in English, "They must have turned 50 yesterday."
 </details>
 
+___
+
 #### Cases
 <details>
   <summary>Cases</summary>
@@ -179,6 +191,8 @@
   - Pay attention to verb and preposition usage, as they often determine the case required.
   - Regularly review noun declensions and pronoun tables to strengthen case usage.
   - Use exercises and practice materials to reinforce understanding and application of cases in different contexts.
+
+___
 
   ##### 1. Nominative Case (Nominativ):
   - Used for the subject of a sentence, the noun or pronoun performing the action.
@@ -212,6 +226,8 @@
     - Example: *Der Hund beißt den Mann.* (The dog bites the man.)
       - Passive: *Der Mann wird vom Hund gebissen.* (The man is bitten by the dog.)
 
+___
+
   ##### 2. Accusative Case (Akkusativ):
   - Used for the direct object of a sentence, the noun or pronoun receiving the action.
   - Examples:
@@ -243,7 +259,9 @@
   - Some verbs can take either accusative or dative objects, with a change in meaning.
     - Example: *Ich folge dem Rat.* (I follow the advice.) - Dative
       - *Ich befolge den Rat.* (I follow the advice.) - Accusative
-  
+  __
+  _
+
   ##### 3. Dative Case (Dativ):
   - Used to indicate the indirect object of a sentence, often translated to 'to' or 'for' in English.
   - Examples:
@@ -278,6 +296,8 @@
   - The dative case in German typically indicates the indirect object of a sentence, showing to whom or for whom an action is done. It's often used after certain verbs and prepositions to denote this indirect relationship. For example, in "Ich gebe dem Mann das Buch" (I give the book to the man), "dem Mann" is in the dative case as he is the recipient of the action of giving.
 
 
+___
+
   ##### 4. Genitive Case (Genitiv):
   - Used to indicate possession or association, often translated to 'of' in English.
   - Examples:
@@ -308,6 +328,8 @@
     **Edge case:**
     - Some expressions and compound nouns might use the genitive case instead of the dative case for possession.
 </details>
+
+___
 
 #### Präsens Tense in German
 <details>
@@ -379,6 +401,8 @@
   - **Practice Speaking**: Regularly practice speaking in Präsens tense to improve fluency and accuracy.
 </details>
 
+___
+
 #### The Präteritum Tense
 <details>
   <summary>The Präteritum Tense in German</summary>
@@ -428,6 +452,8 @@
 
   The Präteritum tense is used to describe past actions in German, particularly in written contexts such as literature and formal writing. It follows a specific conjugation pattern for both regular and irregular verbs.
 </details>
+
+___
 
 #### The Perfekt Tense
 <details>
@@ -486,6 +512,8 @@
   **Summary**
   The Perfekt tense is a versatile and commonly used tense in German, especially in spoken language, for describing past actions and experiences. By combining the auxiliary verb with the past participle, it allows speakers to convey completed actions effectively.
 </details>
+
+___
 
 #### The Plusquamperfekt Tense
 <details>
@@ -559,6 +587,8 @@
 </details>
 
 
+___
+
 #### The Future Tense (Futur I)
 <details>
   <summary>The Future Tense (Futur I)</summary>
@@ -612,6 +642,8 @@
   The Future Tense (Futur I) in German is formed using the present tense of the auxiliary verb "werden" followed by the infinitive form of the main verb. It is used to express actions that will occur in the future, such as predictions, intentions, or plans.
 </details>
 
+___
+
 #### Subordinate Clauses
 <details>
   <summary>Subordinate Clauses</summary>
@@ -647,6 +679,8 @@
      - Conjunction + Subject + Objects/Complements + Auxiliary Verb + Main Verb (infinitive)
      - Example: "Ich denke, dass ich einen Apfel essen werde." (I think that I will eat an apple.)
 
+___
+
   ##### Conjunctions: "denn" and "weil"
 
   The conjunctions "denn" and "weil" are used to give a reason.
@@ -669,13 +703,17 @@
       - (Pia asks Paula for her opinion because Paula is always very honest.)
 </details>
 
+___
+
 #### German Moods
 <details>
   <summary>German Moods</summary>
 
   In German grammar, "mood" refers to the grammatical category that indicates the speaker's attitude toward the action or state of the verb. It helps convey the speaker's intention, whether it's making a statement, asking a question, giving a command, expressing possibility, or conveying hypothetical situations.
   There are three main moods in German: Indicative, Subjunctive, and Imperative. Each mood serves different purposes and is used in various contexts to express different attitudes or intentions in sentences.
-  
+  __
+  _
+
   ##### 1. Indicative Mood (Indikativ)
   The indicative mood is used for making statements, asking questions, or expressing facts and reality.
 
@@ -684,7 +722,11 @@
   - Question: *Gehst du zur Schule?* (Do you go to school?)
   - Fact: *Die Sonne scheint.* (The sun is shining.)
 
+___
+
   ##### 2. Subjunctive Mood (Konjunktiv)
+
+___
 
   ###### a. Subjunctive I (Konjunktiv I)
 
@@ -695,6 +737,8 @@
   - Reported Speech: *Sie behauptete, sie könne gut singen.* (She claimed she could sing well.)
   - Polite Request: *Ich hätte gerne eine Tasse Kaffee.* (I would like a cup of coffee.)
 
+___
+
   ###### b. Subjunctive II (Konjunktiv II)
 
   Subjunctive II is used to express hypothetical situations, wishes, desires, or unreal conditions. It's also used in indirect speech, especially for expressing doubt or uncertainty.
@@ -703,6 +747,8 @@
   - Hypothetical Situation: *Wenn ich reich wäre, würde ich um die Welt reisen.* (If I were rich, I would travel around the world.)
   - Wish: *Ich wünschte, es wäre Sommer.* (I wish it were summer.)
   - Unreal Condition: *Wenn ich mehr Zeit hätte, würde ich mehr lesen.* (If I had more time, I would read more.)
+
+___
 
   ##### 3. Imperative Mood (Imperativ)
 
@@ -714,12 +760,16 @@
   - Request: *Hilf mir, bitte.* (Help me, please.)
 </details>
 
+___
+
 #### German Conjunctions for B1 Level
 <details>
   <summary>German Conjunctions for B1 Level</summary>
 
   Conjunctions are words used to connect words, phrases, clauses, or sentences. They serve to establish relationships between different elements of a sentence and contribute to the coherence and flow of language. Conjunctions can express various types of relationships, including addition, contrast, cause and effect, time, purpose, and condition.
-  
+  __
+  _
+
   ##### Coordinating Conjunctions (do not change the word order)
   Coordinating conjunctions are used to join elements of equal grammatical rank within a sentence. They connect words, phrases, or clauses that have the same function in the sentence. In essence, coordinating conjunctions link independent clauses to create compound sentences, or they join words or phrases within a single clause.
   
@@ -742,6 +792,8 @@
   5. **sondern** (but rather)
     - Example: "Ich trinke keinen Tee, sondern Kaffee."
       - (I don't drink tea, but rather coffee.)
+
+___
 
   ##### Subordinating Conjunctions (send the verb to the end of the clause)
   Subordinating conjunctions are a type of conjunction used to connect a subordinate (dependent) clause to a main (independent) clause. These conjunctions introduce subordinate clauses, which cannot stand alone as complete sentences and depend on the main clause for their meaning.
@@ -792,6 +844,8 @@
       - Example: "Warte, bis ich zurückkomme."
         - (Wait until I come back.)
 
+___
+
   ##### Correlative Conjunctions
   Correlative conjunctions are pairs of conjunctions that work together to join words, phrases, or clauses of equal grammatical rank within a sentence. These conjunctions are used in pairs to connect elements that are similar in structure or function, often emphasizing the relationship between them.
   - **sowohl ... als auch** (both ... and)
@@ -809,6 +863,8 @@
   - **nicht nur ... sondern auch** (not only ... but also)
     - Example: "Nicht nur das Essen, sondern auch der Service war ausgezeichnet."
       - (Not only the food, but also the service was excellent.)
+
+___
 
   ##### Relative Pronouns
   Relative pronouns in German are used to introduce subordinate clauses that provide additional information about a noun or pronoun in the main clause. These clauses, known as relative clauses, describe or specify the noun they refer to and help to provide more context or detail to the main clause.
@@ -828,7 +884,11 @@
     - Example: "Die Frau, wessen Tasche gestohlen wurde, ist sehr verärgert."
       - (The woman whose bag was stolen is very upset.)
 
+___
+
   ##### Sentence Structure Examples
+
+___
 
   ###### Coordinating Conjunctions
 
@@ -837,11 +897,15 @@
   - Example: "Ich möchte kommen, aber ich habe keine Zeit."
     - (I want to come, but I have no time.)
 
+___
+
   ###### Subordinating Conjunctions
   **Structure:** Main Clause + Subordinating Conjunction + Subordinate Clause (with verb at the end)
 
   - Example: "Ich bleibe zu Hause, weil ich krank bin."
     - (I stay at home because I am sick.)
+
+___
 
   ###### Correlative Conjunctions
   **Structure:** Correlative Conjunction 1 + Main Clause + Correlative Conjunction 2 + Main Clause
@@ -849,11 +913,15 @@
   - Example: "Sowohl Peter als auch Maria gehen zum Supermarkt."
     - (Both Peter and Maria are going to the supermarket.)
 
+___
+
   ###### Relative Pronouns
   **Structure:** Main Clause + Relative Pronoun + Subordinate Clause (with verb at the end)
 
   - Example: "Der Mann, der dort steht, ist mein Vater."
     - (The man who is standing there is my father.)
+
+___
 
   ###### Summary Table for Conjunctions
 
@@ -869,6 +937,8 @@
   By mastering these conjunctions and understanding their usage, you will be able to form more complex and nuanced sentences in German.
 </details>
 
+
+___
 
 #### Modal Particles
 <details>
@@ -966,10 +1036,14 @@
       - Example: "Das denke ich wohl auch." (I think so too, though.)
 </details>
 
+___
+
 #### Prepositions
 <details>
   <summary>Prepositions</summary>
 
+
+___
 
   ##### Accusative Prepositions (Accusative: Direct Object)
   - durch (through)
@@ -986,6 +1060,8 @@
     - Ich warte bis morgen. (I wait until tomorrow.)
   - entlang (along) (Note: "entlang" is typically used after the noun)
     - Wir gehen den Fluss entlang. (We walk along the river.)
+
+___
 
   ##### Dative Prepositions (Dative: Indirect Object)
   - aus (from, out of)
@@ -1006,6 +1082,8 @@
     - Ich gehe zu meinem Arzt. (I go to my doctor.)
   - gegenüber (opposite)
     - Das Kino ist gegenüber dem Bahnhof. (The cinema is opposite the station.)
+
+___
 
   ##### Genitive Prepositions (Genitive: Possessive)
   - statt (instead of)
@@ -1028,6 +1106,8 @@
     - Jenseits des Flusses liegt ein Wald. (Beyond the river, there is a forest.)
   - diesseits (this side of)
     - Diesseits der Grenze sprechen die Leute Deutsch. (This side of the border, people speak German.)
+
+___
 
   ##### Prepositions Governing Both Accusative and Dative (Two-way Prepositions)
   These prepositions can take either the accusative or dative case depending on whether they indicate motion (accusative) or location (dative).
@@ -1059,6 +1139,8 @@
     - Ich stelle die Vase zwischen die Bücher. (Accusative: I place the vase between the books.)
     - Die Vase steht zwischen den Büchern. (Dative: The vase is between the books.)
 
+___
+
   ##### Other Less Common Prepositions
   - entlang (along) (when used before the noun, it takes the accusative case)
     - Entlang des Flusses gibt es viele Bäume. (Along the river, there are many trees.)
@@ -1069,6 +1151,8 @@
   - zufolge (according to, takes dative)
     - Laut dem Bericht zufolge wird es regnen. (According to the report, it will rain.)
 </details>
+
+___
 
 #### Verb-Subject Inversion
 <details>
@@ -1098,6 +1182,8 @@
   - Wohin gehst du? (Where are you going?)
 </details>
 
+___
+
 #### Activities
 <details>
   <summary>Activities</summary>
@@ -1105,6 +1191,8 @@
 - Sie können schwimmen, wandern, Rad fahren, Kajak fahren oder segeln.
   - (You can swim, hike, bike, kayak, or sail.)
 </details>
+
+___
 
 #### Restaurants
 <details>
@@ -1153,6 +1241,8 @@
     (Separate or together?)
 </details>
 
+___
+
 #### Expressing advice/recommendation/warning
 <details>
   <summary>Expressing advice/recommendation/warning</summary>
@@ -1166,6 +1256,8 @@
   |Advice/recommendation  | Mach … gleich!                         |
   |Advice/recommendation  | …darf nicht zu … sein / … muss … sein. |
 </details>
+
+___
 
 #### Indefinite Pronouns
 <details>
