@@ -2,8 +2,8 @@
   | Topics                              |                   |                   |                   |                   |
   |-----------------------------------------|-------------------|-------------------|-------------------|-------------------|
   | ⏳ Nouns (Substantive)                   | ⏳ Verbs (Verben) | ⏳ Adjectives (Adjektive) | ❌ Adverbs (Adverbien) | ❌ Pronouns (Pronomen) |
-  | ❌ Prepositions (Präpositionen)          | ❌ Conjunctions (Konjunktionen) | ⏳ Sentence Structure (Satzstruktur) | ⏳ Cases (Fälle) | ⏳ Tenses (Zeiten) |
-  | ❌ Negation (Verneinung)                 | ❌ Indirect Speech (Indirekte Rede) | ❌ Modal Particles (Modalpartikeln) | ❌ Relative Clauses (Relativsätze) | ❌ Moods (Stimmungen) |
+  | ⏳ Prepositions (Präpositionen)          | ⏳ Conjunctions (Konjunktionen) | ⏳ Sentence Structure (Satzstruktur) | ⏳ Cases (Fälle) | ⏳ Tenses (Zeiten) |
+  | ❌ Negation (Verneinung)                 | ❌ Indirect Speech (Indirekte Rede) | ❌ Modal Particles (Modalpartikeln) | ❌ Relative Clauses (Relativsätze) | ⏳ Moods (Stimmungen) |
   | ❌ Passive Voice (Passiv)                | ❌ Comparisons (Vergleiche) | ❌ Word Formation (Wortbildung) | ⏳ Numerals (Zahlen) | ❌ Expressions of Time and Temporal Adverbs (Zeitangaben und temporale Adverbien) |
   | ❌ Causal Clauses (Kausale Nebensätze)   | ❌ Conditional Clauses (Konditionale Nebensätze) | ❌ Purpose Clauses (Finalsätze) | ❌ Direct and Indirect Objects (Direkte und indirekte Objekte) |                   |
 ___
@@ -979,6 +979,43 @@ ___
 </details>
 
 ___
+#### Modal verbs
+<details>
+  <summary>Modal verbs</summary>
+
+  ##### Dürfen (to be allowed to)
+  - **Permission:** Ich darf ins Kino gehen.
+
+    Explanation: "Dürfen" is used to express permission or allowance. This sentence indicates that the speaker is permitted to go to the cinema.
+
+  ##### Können (to be able to)
+  - **Ability:** Ich kann Deutsch sprechen.
+
+    Explanation: "Können" denotes the ability or capability to do something. In this sentence, the speaker states their ability to speak German.
+
+  ##### Mögen (to like)
+  - **Preference:** Ich mag Schokolade.
+
+    Explanation: "Mögen" expresses preference or fondness for something. Here, the speaker expresses their liking for chocolate.
+
+  ##### Müssen (to have to)
+  - **Obligation:** Ich muss das Buch lesen.
+
+    Explanation: "Müssen" indicates obligation or necessity. The sentence implies that the speaker has an obligation or necessity to read the book.
+
+  ##### Sollen (should)
+  - **Recommendation:** Ihr solltet mehr lesen.
+
+    Explanation: "Sollen" is used to give recommendations or suggestions. This sentence advises someone to read more.
+
+  ##### Wollen (to want)
+  - **Intention:** Ich will heute Abend fernsehen.
+
+    Explanation: "Wollen" expresses desire or intention. The speaker here expresses their intention to watch television in the evening.
+
+</details>
+
+___
 #### Prepositions
 <details>
   <summary>Prepositions</summary>
@@ -1155,7 +1192,30 @@ ___
 </details>
 
 ___
+#### Negation with Nicht and Kein/Keine
+<details>
+  <summary>Negation with Nicht and Kein/Keine</summary>
+  
+  - nicht is used to make sentences or words negative, kein/kein/keine can only go in front of nouns.
+    - Der Tee ist nicht lecker.
+    - Ich möchte keinen Kuchen, kein Brot, keine Suppe, keine Kartoffeln.
+  - If nicht is used to negate a whole sentence it goes as far to the end / right as possible in the sentence.
 
+  | Scenario                            | Nicht                                        | Kein/Keine/Kein                             |
+  |------------------------------------|----------------------------------------------|----------------------------------------------|
+  | Negating a noun (masculine)        | Ich habe **nicht** einen Hund.              | Ich habe **keinen** Hund.                    |
+  | Negating a noun (feminine)         | Ich habe **nicht** eine Katze.              | Ich habe **keine** Katze.                    |
+  | Negating a noun (neuter)           | Ich habe **nicht** ein Haus.                | Ich habe **kein** Haus.                      |
+  | Negating a noun (plural)           | Wir haben **nicht** Autos.                  | Wir haben **keine** Autos.                   |
+  | Negating an adjective              | Das Essen ist **nicht** lecker.             | Das Essen ist **nicht** gut.                |
+  | Negating a verb                    | Sie tanzen **nicht**.                       | Sie tanzen **nicht**.                        |
+  | Negating an infinitive verb        | Ich habe beschlossen, **nicht** zu gehen.   | Ich habe beschlossen, **nicht** zu gehen.    |
+  | Negating a whole sentence          | **Nicht** alle Studenten sind hier.         | **Nicht** alle Studenten sind hier.         |
+  | Using "kein" in place of "nicht"   | **Kein** Problem!                           | **Kein** Problem!                            |
+
+</details>
+
+___
 ## Topic based reminders
 #### Activities
 <details>
@@ -1214,3 +1274,15 @@ ___
 </details>
 
 ___
+#### Mahlzeiten
+<details>
+  <summary>Mahlzeiten</summary>
+
+  - Zum Frühstück esse ich gern Müsli mit Milch oder ein Honigbrot. Marmelade finde ich nicht so lecker und ich mag auch kein Käsebrot und keine Eier zum Frühstück. Ich trinke morgens Tee. Kaffee kann ich leider nicht trinken, weil ich dann Magenschmerzen bekomme. Mittags esse ich oft einen Salat oder ein Sandwich. Abends koche ich mit meiner Freundin – vor allem Pasta. Fleisch kochen wir nicht, weil wir Vegetarier sind. Wir essen auch keinen Fisch. Früher habe ich fast nie gekocht. Ich habe mir oft Pizza und Döner geholt, das war nicht gesund.
+  
+  - Am Morgen esse ich nicht viel, weil ich keine Zeit habe. Ich trinke einen Kaffee und esse ein Croissant. Manchmal esse ich Cornflakes mit Milch. Mittags esse ich in der Kantine in der Firma. Sie ist nicht groß, aber das Essen ist lecker, ich mag vor allem die Fleischgerichte. Abends kochen mein Mann und ich nicht, denn wir essen am Abend nicht so viel. Wir machen nur einen Salat oder essen ein Wurstbrot. Am Wochenende kommt mein Sohn oft zu Besuch, dann mache ich Kuchen. Er liebt meine Kuchen.
+  
+  - Zum Frühstück gibt es bei mir Obst, Kaffee und ein Wurstbrot. Leider darf ich keine Milchprodukte essen und trinken, weil ich eine Allergie habe. Mittags kann ich nicht kochen, weil ich in der Uni bin. Das Abendessen ist sehr wichtig für mich, denn dann kann ich in Ruhe kochen – am liebsten indisch oder thailändisch. Am Wochenende treffe ich mich gerne mit Freunden auf einen Kaffee oder zum Brunch, vor allem im Café Kosmos, ich liebe den Schokokuchen dort.
+</details>
+
+

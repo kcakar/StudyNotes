@@ -108,8 +108,19 @@ teig
 Pfannkuchen
 Wenden
 becher
+wichtig
+reichhaltig
+vielfältig
+Müsli 
+Milch
+Honigbrot
+Marmelade
+Magenschmerzen 
+Früher 
+
 
 ## Sentences
+Mahlzeiten in Deutschland sind oft reichhaltig und vielfältig
 du hast recht. das klingt fantastisch
 Erzöhl mal Karl, wie ist deine wohnung
 klar, mache ich!
