@@ -173,6 +173,92 @@ ___
 </details>
 
 ___
+
+#### Sentence Types
+
+<details>
+  <summary>Sentence Types</summary>
+
+  ###### 1. Declarative Sentences (Aussagesätze)
+  Declarative sentences make a statement or express an opinion. They are the most common type of sentence and have a subject-verb-object (SVO) structure.
+
+  - **Example:** Ich darf keine Milchprodukte essen.
+    - **Translation:** I am not allowed to eat dairy products.
+    - **Explanation:** This sentence states a fact or opinion.
+
+  - **Example:** Heute Morgen habe ich nicht gefrühstückt.
+    - **Translation:** This morning, I didn't have breakfast.
+    - **Explanation:** States a fact about what the speaker did.
+
+  ###### 2. Interrogative Sentences (Fragesätze)
+  Interrogative sentences ask a question. They often start with a question word (wer, was, wann, wo, warum, wie) or by inverting the subject and verb for yes/no questions.
+
+  - **Example:** Warum isst du die Torte nicht?
+    - **Translation:** Why don't you eat the cake?
+    - **Explanation:** This sentence asks a question using a question word.
+
+  - **Example:** Kochst du abends nicht?
+    - **Translation:** Don't you cook in the evenings?
+    - **Explanation:** This is a yes/no question that inverts the subject and verb.
+
+  - **Example:** Warum hast du so viel Hunger?
+    - **Translation:** Why are you so hungry?
+    - **Explanation:** Asks a question about the reason for being so hungry.
+
+  - **Example:** Soll ich dir einen Kuchen mitbringen?
+    - **Translation:** Should I bring you a cake?
+    - **Explanation:** Asks a yes/no question about bringing a cake.
+
+  ###### 3. Imperative Sentences (Befehlsätze)
+  Imperative sentences give commands, instructions, or requests. The subject is usually implied (you) and is often omitted.
+
+  - **Example:** Iss die Torte!
+    - **Translation:** Eat the cake!
+    - **Explanation:** This sentence gives a command.
+
+  ###### 4. Exclamatory Sentences (Ausrufesätze)
+  Exclamatory sentences express strong emotion or surprise. They often start with an interjection or a word like "wie" or "was" and are typically followed by an exclamation mark.
+
+  - **Example:** Was für ein schöner Tag!
+    - **Translation:** What a beautiful day!
+    - **Explanation:** This sentence expresses strong emotion.
+
+  ##### Word Order in Each Type
+
+  ###### Declarative
+  Subject - Verb - (Objects/Complements)
+
+  - **Example:** Ich habe keinen Hunger.
+    - **Translation:** I am not hungry.
+
+  ###### Interrogative (with Question Word)
+  Question Word - Verb - Subject - (Objects/Complements)
+
+  - **Example:** Warum isst du nicht?
+    - **Translation:** Why aren't you eating?
+
+  ###### Interrogative (Yes/No Question)
+  Verb - Subject - (Objects/Complements)
+
+  - **Example:** Kochst du abends?
+    - **Translation:** Do you cook in the evenings?
+
+  ###### Imperative
+  (You - implied subject) Verb - (Objects/Complements)
+
+  - **Example:** Iss die Torte!
+    - **Translation:** Eat the cake!
+
+  ###### Exclamatory
+  Interjection or Exclamation Word - Verb - Subject - (Objects/Complements) - !
+
+  - **Example:** Was für ein schöner Tag!
+    - **Translation:** What a beautiful day!
+
+</details>
+
+___
+
 #### Cases
 <details>
   <summary>Cases</summary>
