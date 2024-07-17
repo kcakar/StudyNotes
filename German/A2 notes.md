@@ -301,6 +301,8 @@ ___
     - Example: *Der Hund beißt den Mann.* (The dog bites the man.)
       - Passive: *Der Mann wird vom Hund gebissen.* (The man is bitten by the dog.)
 
+        
+
   ##### 2. Accusative Case (Akkusativ):
   - Used for the direct object of a sentence, the noun or pronoun receiving the action.
   - Examples:
@@ -575,6 +577,63 @@ ___
   - **Präteritum** is often used in written texts, especially in narratives, news reports, and formal writing.
     - Example: **Ich arbeitete.** (I worked.)
 
+  ##### Auxiliary Verbs "haben" and "sein"
+
+1. **"haben" is used with most verbs, particularly:
+   - Transitive verbs (verbs that take a direct object): "Ich habe einen Apfel gegessen." (I ate an apple.)
+   - Reflexive verbs: "Ich habe mich gewaschen." (I washed myself.)
+   - Modal verbs in perfect tense: "Ich habe gehen müssen." (I had to go.)
+
+2. **"sein" is used with:
+   - Verbs of motion (going, coming, arriving, etc.): "Ich bin nach Hause gegangen." (I went home.)
+   - Verbs indicating a change of state: "Er ist eingeschlafen." (He fell asleep.)
+   - A few other intransitive verbs like "sein" (to be) and "bleiben" (to stay).
+
+### Explanation of Examples
+
+1. **Heute bin ich zu spät zur Schule gekommen.**
+   - "kommen" (to come) is a verb of motion. Therefore, it uses "sein" as the auxiliary verb.
+   - "gekommen" is the past participle of "kommen."
+
+2. **Ich habe letztes Jahr einen Schüleraustausch gemacht.**
+   - "machen" (to do/make) is a transitive verb. Therefore, it uses "haben" as the auxiliary verb.
+   - "gemacht" is the past participle of "machen."
+
+3. **In seinem Austauschjahr hat Tarek bei der Theater-AG mitgemacht.**
+   - "mitmachen" (to participate) is a transitive verb. Therefore, it uses "haben."
+   - "mitgemacht" is the past participle of "mitmachen."
+
+4. **Wann seid ihr in Karlstad angekommen?**
+   - "ankommen" (to arrive) is a verb of motion. Therefore, it uses "sein."
+   - "angekommen" is the past participle of "ankommen."
+
+5. **Welche Kurse hast du besucht?**
+   - "besuchen" (to visit/attend) is a transitive verb. Therefore, it uses "haben."
+   - "besucht" is the past participle of "besuchen."
+
+6. **Mir hat die Zeit in Schweden gut gefallen.**
+   - "gefallen" (to please) is a verb that uses "haben."
+   - "gefallen" is the past participle of "gefallen."
+
+7. **Die Astrid Lindgren Schule hat alles sehr gut organisiert.**
+   - "organisieren" (to organize) is a transitive verb. Therefore, it uses "haben."
+   - "organisiert" is the past participle of "organisieren."
+
+### Formation of Past Participles
+
+- For weak verbs (regular verbs), the past participle is typically formed by adding "ge-" at the beginning and "-t" at the end:
+  - "machen" -> "gemacht"
+  - "besuchen" -> "besucht"
+  
+- For strong verbs (irregular verbs), the past participle often involves a stem vowel change and ends in "-en":
+  - "kommen" -> "gekommen"
+  - "fahren" -> "gefahren"
+
+- For verbs ending in "-ieren" (like "organisieren"), the past participle does not take "ge-" and simply ends in "-t":
+  - "organisieren" -> "organisiert"
+  
+Understanding these rules and patterns will help you determine when to use "haben" or "sein" and how to form the past participle correctly.
+
   **Summary**
   The Perfekt tense is a versatile and commonly used tense in German, especially in spoken language, for describing past actions and experiences. By combining the auxiliary verb with the past participle, it allows speakers to convey completed actions effectively.
 </details>
@@ -732,6 +791,25 @@ ___
      - Conjunction + Subject + Objects/Complements + Verb
      - Example: "Ich denke, dass ich einen Apfel esse." (I think that I am eating an apple.)
 
+     | **Main clause**        | **Subordinate clause with dass**                                       |                         |
+     |------------------------|------------------------------------------------------------------------|------------------------ |
+     | Emilia denkt,          | dass Frauen mit Lebenserfahrung für die Arbeit als Au-pair ideal       | **sind**.               |
+     | Ich finde es toll,     | dass es Au-pair-Omas                                                   | **gibt**.               |
+     | Es ist schade,         | dass die Au-pair-Oma nächste Woche                                     | **abreist**.            |
+     | **Verb Position 2**    |           Subordinate clause                                           | **Verb:** at end        |
+
+     | **Subordinate clauses with dass go after the following, for example:** |
+     |-----------------------------------------------------------------------|
+     | **Certain verbs:** denken, finden, glauben, hoffen, wissen, sagen, …  |
+     | **Impersonal expressions:** Es ist schade, Es gefällt mir, …, Schön, … |
+     | **Expressions with adjectives:** Ich bin glücklich/traurig, … / Ich finde es toll, … |
+
+      | **Main clause**        | **Subordinate clause with dass**                      |
+      |------------------------|--------------------------------------------------------|
+      | Ich bin froh,          | dass ich bald nach Hause. **zurückfliege.**           |
+      |                        | **Separable verb: end of sentence**                   |
+      | Ich hoffe,             | dass ich viele Jobs **ausprobieren kann.**            |
+      | **Verb&nbsp;Position&nbsp;2**&nbsp;&nbsp;&nbsp;Subordinate&nbsp;clause| **Modal verb: end of sentence**               
   2. **Past Tense Subordinate Clause:**
      - Simple Past: Conjunction + Subject + Objects/Complements + Verb (simple past)
        - Example: "Ich dachte, dass ich einen Apfel aß." (I thought that I ate an apple.)
@@ -1069,6 +1147,16 @@ ___
 <details>
   <summary>Modal verbs</summary>
 
+  | Subject  | Dürfen (to be allowed to) | Können (to be able to) | Mögen (to like) | Müssen (to have to) | Sollen (should) | Wollen (to want) |
+  |----------|---------------------------|-----------------------|-----------------|---------------------|-----------------|------------------|
+  | Ich      | darf                      | kann                  | mag             | muss                | soll            | will             |
+  | Du       | darfst                    | kannst                | magst           | musst               | sollst          | willst           |
+  | Er/Sie/Es| darf                      | kann                  | mag             | muss                | soll            | will             |
+  | Wir      | dürfen                    | können                | mögen           | müssen              | sollen          | wollen           |
+  | Ihr      | dürft                     | könnt                 | mögt            | müsst               | sollt           | wollt            |
+  | Sie/sie  | dürfen                    | können                | mögen           | müssen              | sollen          | wollen           |
+
+
   ##### Dürfen (to be allowed to)
   - **Permission:** Ich darf ins Kino gehen.
 
@@ -1098,6 +1186,26 @@ ___
   - **Intention:** Ich will heute Abend fernsehen.
 
     Explanation: "Wollen" expresses desire or intention. The speaker here expresses their intention to watch television in the evening.
+
+  **Note:** In spoken language, the perfect tense is generally used to express events in the past. The simple past is only used with *haben* and *sein*, and the modal verbs.
+
+  **Example:** 
+  - Perfect tense:
+    - Dürfen: "Ich habe gestern ins Kino gehen dürfen." (I was allowed to go to the cinema yesterday.)
+    - Können: "Ich habe gestern Deutsch sprechen können." (I was able to speak German yesterday.)
+    - Mögen: "Ich habe gestern Schokolade mögen." (I liked chocolate yesterday.)
+    - Müssen: "Ich habe gestern das Buch lesen müssen." (I had to read the book yesterday.)
+    - Sollen: "Ich habe gestern mehr lesen sollen." (I should have read more yesterday.)
+    - Wollen: "Ich habe gestern Deutsch lernen wollen." (I wanted to learn German yesterday.)
+  
+  - Simple past:
+    - Dürfen: "Ich durfte gestern ins Kino gehen." (I was allowed to go to the cinema yesterday.)
+    - Können: "Ich konnte gestern Deutsch sprechen." (I was able to speak German yesterday.)
+    - Mögen: "Ich mochte gestern Schokolade." (I liked chocolate yesterday.)
+    - Müssen: "Ich musste gestern das Buch lesen." (I had to read the book yesterday.)
+    - Sollen: "Ich sollte gestern mehr lesen." (I should have read more yesterday.)
+    - Wollen: "Ich wollte gestern Deutsch lernen." (I wanted to learn German yesterday.)
+  
 
 </details>
 
@@ -1371,4 +1479,42 @@ ___
   - Zum Frühstück gibt es bei mir Obst, Kaffee und ein Wurstbrot. Leider darf ich keine Milchprodukte essen und trinken, weil ich eine Allergie habe. Mittags kann ich nicht kochen, weil ich in der Uni bin. Das Abendessen ist sehr wichtig für mich, denn dann kann ich in Ruhe kochen – am liebsten indisch oder thailändisch. Am Wochenende treffe ich mich gerne mit Freunden auf einen Kaffee oder zum Brunch, vor allem im Café Kosmos, ich liebe den Schokokuchen dort.
 </details>
 
+
+#### Different Ways to Answer Questions About Time in German
+<details>
+  <summary>Different Ways to Answer Questions About Time in German</summary>
+
+  | **Question**                        | **Possible Answers in German**                              |
+  |-------------------------------------|-------------------------------------------------------------|
+  | **Wann hast du Urlaub?**            | Im Juni/Oktober. / Vom 7. bis 19. Juli. / Nächste Woche.    |
+  | **Wann kommt er?**                  | Am Nachmittag. / Um zwei. / Nächste Woche. / Im August.     |
+  | **Wann beginnen die Ferien?**       | Am 7. Juli. / Nächste Woche. / Am Dienstag.                 |
+  | **Wie lange dauert …?**             | Einen Monat. / Eine Stunde. / Zwei Tage. / (Von) … bis …    |
+  | **Wie lange bleibst du hier?**      | Von … bis … / Bis Montag. / Eine Woche.                     |
+  | **Wann fängt der Unterricht an?**   | Um acht Uhr. / Am Montag. / Morgen früh.                    |
+  | **Wann endet die Veranstaltung?**   | Um zehn Uhr. / In einer Stunde. / Am Abend.                 |
+  | **Wann öffnet das Geschäft?**       | Um neun Uhr. / Morgen. / Am Wochenende.                     |
+  | **Wann ist das Meeting?**           | Um drei Uhr. / Am Freitag. / Nächsten Monat.                |
+  | **Wann hast du Geburtstag?**        | Am 15. März. / Nächste Woche. / Im Januar.                  |
+  | **Wann gehst du ins Bett?**         | Um zehn Uhr. / Nach dem Abendessen. / Spät in der Nacht.    |
+  | **Wann kommst du zurück?**          | In einer Stunde. / Am Dienstag. / Nach dem Urlaub.          |
+  | **Wann fährst du ab?**              | Um sechs Uhr morgens. / Nächsten Sonntag. / In zwei Tagen.  |
+  | **Wie lange dauert die Reise?**     | Eine Woche. / Zwei Stunden. / Vom 1. bis 10. August.        |
+  | **Wie lange arbeitest du?**         | Acht Stunden am Tag. / Bis fünf Uhr. / Seit drei Jahren.    |
+
+  | **Preposition**  | **Usage**                                          | **Examples**                                      |
+  |------------------|----------------------------------------------------|---------------------------------------------------|
+  | **um**           | Specific times (clock time)                        | Um drei Uhr (at three o'clock)                    |
+  | **am**           | Days, parts of the day, dates                      | Am Montag (on Monday), am Abend (in the evening)  |
+  | **im**           | Months, seasons, years                             | Im Januar (in January), im Sommer (in summer)     |
+  | **vom … bis …**  | From ... to ... (range of time)                    | Vom 1. bis 10. August (from August 1 to 10)       |
+  | **von … bis …**  | From ... to ... (range within a day)               | Von 9 bis 17 Uhr (from 9 to 5 o'clock)            |
+  | **nach**         | After (a point in time)                            | Nach dem Mittagessen (after lunch)                |
+  | **vor**          | Before (a point in time)                           | Vor dem Abendessen (before dinner)                |
+  | **seit**         | Since (a point in time); for (a duration)          | Seit 2010 (since 2010), seit drei Stunden (for three hours) |
+  | **in**           | In (a certain amount of time in the future)        | In einer Woche (in a week)                        |
+
+
+
+</details>
 

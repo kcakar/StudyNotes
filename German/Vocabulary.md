@@ -94,79 +94,128 @@
 - **die Nachbarn** *(Nachbarn)*
 
 
-der Kühlschrank
-die Spüle
-das Sieb
-die Schüssel
-die Pfanne
-der Topf
-beim
-mehl
-fügen
-verrühren
-teig
-Pfannkuchen
-Wenden
+Abschlüss
+Angebote
+Anmeldegespräche 
+Arbeitsgemeinschaft  (AG)
+aufgabe
+Ausflug 
+ausgestiegen 
 becher
-wichtig
-reichhaltig
-vielfältig
-Müsli 
-Milch
-Honigbrot
-Marmelade
-Magenschmerzen 
+beim
+Besonderheite
+Besuch
+bieten
+Biologie
+Chemie
+Cornflakes 
+Croissant
+das Sieb
+der Kühlschrank
+der Topf
+Deutsch
+die Pfanne
+die Schüssel
+die Spüle
+Eishockeyspielen 
+Englisch
+Erfahrungen 
+erleben
+extrem 
+Firma
+Fleischgerichte
+Französisch
 Früher 
+fügen
+furchtbar 
+Geografie
+Geschichte
+Gesellschaftskunde
+Hauptrolle 
+Honigbrot
+Informatik
+Kantine 
+Kunst
+Kunst und Medien
+Latein
+Magenschmerzen 
+Marmelade
+Mathematik
+mehl
+Milch
+Musik
+Müsli 
+Panne 
+Pfannkuchen
+Pflichtfächer
+Physik
+Redaktion
+reichhaltig
+Religion
+rund 
+schneiden
+Schüleraustausch
+Schüleraustausch 
+Schülerzeitung
+Schulhalbjahr 
+Schuljahr 
+Schuljahresende 
+Schulleiter
+Seite
+Sekretariat
+Sinnen 
+sogar 
+Sozialwissenschaft
+Sport
+Stundenplan
+teig
+Tourismus   
+Unterricht
+verbessert
+verirrt
+verrühren
+verschieden
+vielfältig
+vorbei 
+Wahlfach 
+Wahlfächer 
+Wenden
+wichtig
+wiedergefunden
+Witze
+Zuerst 
+Zusatzangebote
+Zeugnis
+befriedigend
+sitzenbleiben
+Abiturprüfungen 
+Berufliche Tätigkeit
+Zur Person
+Besondere Kenntnisse
+bewerbung
+bewertung
+umsteigen
+daueren
+Meinung 
+Lebenserfahrung 
+Kinderbetreuung
+abreist
+zuverlässig
+Möglichkeit 
+erwachsen 
+wohlgefühlt
+glücklich
+spannend 
+Enkelkinder
+zurückfliege
+praxis
+Abenteuerlust
+Sprachkenntnisse
+auszubildende
+hotelpraktikum
 
 
-## Sentences
-Mahlzeiten in Deutschland sind oft reichhaltig und vielfältig
-du hast recht. das klingt fantastisch
-Erzöhl mal Karl, wie ist deine wohnung
-klar, mache ich!
-du musst mich mal einladen
-das klingt toll
-Hier stimmt einfach alles
-Hoffentlich bleibt das noch lange so.
-Hier gibt es Pizza und Pasta.
-Du weißt doch: Moritz isst kein Gemüse. Er isst lieber Fleisch mit Nudeln oder Reis und Salat.
-Sonja, magst du Pizza?Ja, sehr gern.
-Ich liebe Fastfood, und du? Nein, mir schmecken Pommes und Burger nicht so gut.
-Naja, Tomaten mag ich nicht so gern , aber ich esse sie.
-Erik arbeitet bis 18:30, Sven hat ab 20 Uhr Zeit. 
-Cora wäscht die Pilze.
-Cora gibt Öl in die Pfanne.
-Cora verrührt Eier und Milch.
-Ursula schneidet die Zwiebel.
-Torsten gibt Milch hinzu.
-Torsten wendet das Fleisch.
-Verrühren Sie das Mehl, die Eier, die Milch und das Salz.
-Fügen Sie dann den Zucker hinzu und verrühren Sie nochmal alles zu einem Teig.
-Stellen Sie den Teig dann 30 Minuten in den Kühlschrank.
-Waschen und schneiden Sie die Erdbeeren.
-Geben Sie ein bisschen Öl in die Pfanne. Warten Sie, bis das Öl heiß ist.
-Geben Sie dann etwas Teig in die Pfanne.
-Warten Sie, bis der Pfannkuchen leicht braun ist.
-Wenden Sie dann den Pfannkuchen. Die andere Seite muss auch leicht braun sein.
-Geben Sie das Eis und die Erdbeeren auf den Pfannkuchen und servieren Sie den Pfannkuchen.
-Pass auf! Der Topf ist sehr heiß!
-Das Messer schneidet sehr gut. Sei vorsichtig!
-Hol die Milch aus dem Kühlschrank! Sie darf nicht zu kalt sein.
-Mach die Soße gleich! Hier steht, die Knödel sind in 15 Minuten fertig.
 
 
-Kann mir jemand helfen?
-Wie macht Answerjemandman die Soße?
-Warte, hier ist das Rezept!
-Weiß Answerjemandman, wo das Sieb ist?
-Ich glaube, es ist in der Spülmaschine.
-Nein, hier ist es nicht.
-Brauchst du noch Answeretwasnichts für die Soße?
-Nein, ich habe Answermehralles.
-Wir schneiden Answernichtsalles für die Suppe!
-Okay, super. Hier sind die Zutaten.
-Torsten, hast du noch Answernichtsmehr Zwiebeln? Eine ist zu wenig.
-Ja, ich bringe sie dir gleich.
-Ist schon jemand fertig?
-Was steht im Rezept?
-Für die Suppe brauchen wir Answer Zwiebel. Und dann brauchen wir noch Answer Sahne und Answer Salz und Pfeffer. Außerdem brauchen wir noch Answer Kartoffeln und Answer Karotten.
+
+
