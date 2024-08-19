@@ -213,6 +213,109 @@ Abenteuerlust
 Sprachkenntnisse
 auszubildende
 hotelpraktikum
+anstrengend
+betreuen
+Taschengeld
+gelegen
+das WLAN
+das Doppelzimmer
+das Frühstücksbuffet
+das Parkhaus
+der Wäscheservice
+der Safe
+das Einzelzimmer
+der Gepäckraum
+bestätigen
+Anreise 
+nennen
+Ungefähr 
+erklären
+Fahrrad
+Verkehrsmittel
+Die Straßenbahn
+Messe
+flexibel
+Flugzeug 
+Durchsagen
+Erfahrungsbericht
+Pech
+Tschechien 
+geärgert
+bequem
+Erfahrungsberichte
+Aussagen
+kennenlernen
+tauschen
+Entspannung 
+pur
+Ausflüge 
+verreisen 
+Wohnmobil
+Vorteil 
+Stadtführung 
+liegen
+Abkürzungen
+
+inklusive
+der Quadratmeter
+die Kaltmiete
+die Nebenkosten/Betriebskosten
+die Warmmiete
+exklusive
+die Wohngemeinschaft
+die Tiefgarage
+dringend
+die Küche
+das Schlafzimmer
+das Badezimmer
+das Wohnzimmer
+der Flur
+das Arbeitszimmer
+Die Wohnungsbesichtigung
+Vorteile
+Nachteile
+gießen
+Treppenhaus
+der Briefkasten
+die Treppe
+die Klingel
+die Eingangstür
+der Aufzug
+der Fahrradkeller
+die Wohnungstür
+das Treppenhaus
+Spielsachen 
+gezogen
+kümmeren
+dran
+Mehrgenerationenhaus
+Mehrgenerationenhäuser
+Wohngemeinschaften
+Altersheim
+Nachteile
+Einige 
+Damals 
+stricke 
+beliebt
+teilen 
+genießen 
+beliebt
+belieben
+Jeder
+meisten
+berufstätigen
+Grund
+zueinander
+zueinander passen
+passen
+gleichen
+Themen
+Ordnung
+Pünktlichkeit
+Lieblingsmusik
+Zusammenleben
+
+
 
 
 

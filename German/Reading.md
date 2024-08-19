@@ -467,3 +467,806 @@ Ich hoffe, dass ich vielen Kindern helfen kann.
 Ich kann hier so viel lernen.
 Ich bin glücklich, dass ich hier so viel lernen kann.
 
+
+Svenja
+Heute um 09:19
+
+Hallo! Ich möchte auch sehr gern ein Jahr im Ausland verbringen, aber ich weiß noch nicht, was ich machen soll. Könnt ihr mir vielleicht helfen?
+Welche Erfahrungen habt ihr gemacht?
+Svenja
+
+
+Julia
+Heute um 09:47
+
+Hallo Svenja! Ich habe letztes Jahr ein Work and Travel in Neuseeland gemacht. Am Work and Travel hat mir gefallen, dass ich verschiedene Jobs ausprobieren konnte. Ich habe in einem Hotel, in einem Büro und auf einer Farm gearbeitet. Schön war, dass ich viele Menschen kennengelernt habe und viele Freunde gefunden habe. Und ich spreche jetzt richtig gut Englisch. Ich kann dir ein Jahr im Ausland absolut empfehlen!
+
+
+Fabio
+Heute um 09:50
+
+Hallo Svenja! Ich heiße Fabio und komme aus Italien. Ich habe vor zwei Jahren in einem Sommercamp für Kinder in Schleswig-Holstein gearbeitet, weil ich sehr gerne mit Kindern arbeite. Das hat sehr viel Spaß gemacht und war eine super Erfahrung. Nicht so toll war, dass wir oft sehr lange arbeiten mussten. Von 7 Uhr am Morgen bis 22 Uhr am Abend. Das war ganz schön anstrengend.
+
+
+Lenka
+Heute um 10:05
+
+Ich bin gerade als Au-Pair in Berlin. Leider hatte ich Probleme mit meiner Gastfamilie. Ich musste drei Kinder betreuen und hatte nur wenig Freizeit. Nicht mal am Sonntag. Und mein Taschengeld habe ich auch immer sehr spät oder gar nicht bekommen. Ich habe mit meiner Agentur gesprochen und bin jetzt bei einer anderen Familie. Jetzt ist alles super! Die Familie ist sehr nett und ich habe manchmal das ganze Wochenende frei.
+
+
+
+
+
+
+
+
+
+
+
+
+Lieber Herr Tillich,
+
+wie von Ihnen gewünscht, habe ich für Sie und Frau Gerhard ein Hotel in der Nähe der Messe gesucht. Leider sind sehr viele Hotels vom 21. bis 23. Oktober schon ausgebucht. Ich habe noch das Hotel „Am Hang“ in der Nähe vom Ostbahnhof gefunden. Mit der U-Bahn ist es nur eine Viertelstunde zur Messe. Ein Einzelzimmer ohne Frühstück kostet pro Nacht 110 €. Das Frühstück kostet 20 € pro Person. In allen Zimmern gibt es einen Schreibtisch und einen Safe. Das WLAN ist inklusive .
+Möchten Sie, dass ich zwei Einzelzimmer in diesem Hotel reserviere? Bitte geben Sie mir schnell Bescheid.
+
+Vielen Dank.
+Karin Paulsen
+
+
+
+
+
+
+
+
+Booking a hotel room by post/email
+Salutation
+Sehr geehrte Damen und Herren, / Sehr geehrte Frau …, / Sehr geehrter Herr …,
+
+Content
+hiermit möchte ich vom … bis … ein Einzelzimmer/Doppelzimmer mit/ohne Frühstück (für Herrn/Frau …) reservieren.
+Die Anreise ist am … gegen/um … Uhr.
+Die Abreise ist am … gegen/um … Uhr / nach dem Frühstück.
+Bitte bestätigen Sie die Reservierung per E-Mail.
+
+Closing remarks
+Vielen Dank. / Vielen Dank im Voraus.
+
+Sign-off
+Mit freundlichen Grüßen
+
+
+
+Sehr geehrte Damen und Herren,
+Hiermit möchte ich ein Doppelzimmer für drei Nächte reservieren.
+Die Anreise ist am 05. März am Abend.
+Haben die Zimmer WLAN und einen Safe?
+Bitte bestätigen Sie die Reservierung per E-Mail.
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen
+Keremcan Cakar
+
+
+
+
+
+
+Sehr geehrte Frau Paulsen,
+
+vielen Dank für Ihre Anfrage. Gerne bestätigen wir Ihnen Ihre Reservierung:
+2x2 Übernachtungen im Einzelzimmer mit Frühstück, 130 € pro Person/Nacht
+Namen der Gäste: Ute Gerhard, Johannes Tillich
+Anreise: 21.10. gegen 19 Uhr
+Abreise: 23.10. nach dem Frühstück
+Wir wünschen Ihren Kollegen eine gute Reise und freuen uns auf ihren Besuch.
+
+Mit freundlichen Grüßen
+Annika Berger
+Hotel Am Hang, Rezeption
+
+
+
+
+
+
+
+
+
+
+
+Herr Tillich und Frau Gerhard haben schon einmal in diesem Hotel übernachtet.
+Die beiden müssen ein Formular ausfüllen.
+Herr Tillich bekommt ein Raucherzimmer.
+Beide Zimmer sind im dritten Stock.
+Herr Tillich und Frau Gerhard tragen ihre Koffer selbst.
+
+
+
+Asking where a restaurant is
+Ich möchte / Wir möchten (jetzt / heute Mittag …) gerne essen gehen.
+Können Sie uns/mir ein Restaurant empfehlen?
+Gibt es in der Nähe ein Restaurant?
+
+Asking the way
+Wie kommen wir zum Restaurant … / zu …?
+Wo ist …?
+Wie weit ist es zum/zur/zu …?
+
+
+
+
+
+
+
+
+
+
+
+Ich bin schon lange ein Fan von Couchsurfen, denn ich reise oft und gern allein. Beim Couchsurfen bucht man kein Hotel und kein Hostel. Die Idee ist, dass man bei Privatpersonen übernachtet und nichts dafür bezahlen muss. Ich finde, dass man als Couchsurfer eine Stadt und die Menschen besonders gut kennenlernen kann. Man lebt bei einem Host, so nennt man seinen Gastgeber, macht vielleicht etwas gemeinsam oder bekommt gute Tipps.
+
+Weil man für den Schlafplatz auf der Couch nichts bezahlt, bringen viele Couchsurfer kleine Geschenke mit oder kochen für den Host.
+
+Ich habe auf vielen Couches geschlafen und es hat fast immer perfekt funktioniert. Klar, manchmal waren die Couches vielleicht nicht super bequem oder die Wohnung war nicht sehr sauber, aber als Couchsurfer muss man flexibel sein. Nur einmal hatte ich wirklich Pech: In Paris hat mir ein Gastgeber abgesagt, weil er krank geworden ist und ich musste in ein Hotel. Das war dann leider wirklich teuer.
+
+Meine nächste Reise als Couchsurfer ist schon geplant. Im Mai muss ich beruflich nach Köln. Dort werde ich auch wieder Couchsurfen. Ich bin gerade auf der Suche nach einer Couch …
+
+
+
+
+
+
+
+
+Die Couch in Köln
+
+
+Pavel
+Gestern um 19:00
+
+Hallo Elias, ich habe dein Profil auf meinecouchistdeinecouch.de gesehen. Ich brauche vom 17. bis zum 20. Mai einen Schlafplatz in Köln, weil ich an einem IT-Workshop teilnehme. Ich komme am 17. in Köln an und bin dann den ganzen Tag beim Workshop. Ich kann also erst am Abend zu dir kommen. Ist deine Couch noch frei? Du trinkst gern Bier? Ich auch. Natürlich bringe ich dir super Bier aus Tschechien mit! Ich hoffe, du hast Platz für mich. Viele Grüße, Pavel
+
+
+Elias
+Gestern um 19:03
+
+Hallo Pavel, es tut mir sehr leid, aber vom 17. bis zum 20. Mai ist meine Couch nicht frei. Ich hoffe, du findest eine andere Couch! Schöne Grüße, Elias
+
+P.S.: Schade, ich habe gehört, dass Bier aus Tschechien sehr gut ist! Vielleicht das nächste Mal ☺!
+
+
+Elias
+Heute um 18:15
+
+Hallo Pavel, ich nochmal! Brauchst du vom 17. bis zum 20. Mai noch einen Schlafplatz in Köln? Ich habe eine Absage bekommen und meine Couch ist nun wieder frei. Du kannst gern auf meiner Couch übernachten. Melde dich! Elias
+
+
+
+
+
+
+
+
+
+
+
+
+▲ Na endlich …
+
+▼ Tut mir leid, der Workshop hat gestern bis halb neun Uhr gedauert. Und heute Abend war ich mit Elias essen.
+
+Und wie ist die Wohnung? Bist du zufrieden?
+
+▼ Ja. Die Wohnung ist klein aber sehr schön. Und Elias ist sehr sympathisch.
+
+Ist dein Schlafplatz gemütlich?
+
+▼ Ja, sehr. Ich schlafe im Wohnzimmer. Die Couch ist groß und bequem.
+
+▲ Schön. Das freut mich. Und wie gefällt dir Köln?
+
+Gut, aber ich habe mich heute schon geärgert.
+
+▲ Warum?
+
+▼ Ich war nach dem Workshop noch im Dom. Elias hat gesagt, dass man vom Turm einen tollen Blick auf die Stadt hat.   
+
+Aber das war ganz schön teuer!
+
+  Und wie war der Blick über die Stadt?
+
+▲ Na eben, dann hat es sich doch gelohnt. Du, ich hab‘ morgen ab sechs Uhr Zeit. Treffen wir uns?
+
+▼ Ja, gern. Ach Julia, noch eine Frage. Kannst du mir ein Museum empfehlen?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich wollte Couchsurfen schon immer einmal ausprobieren. Meine Freunde haben super Erfahrungen gemacht und tolle Menschen kennengelernt. Aber ich hatte leider sehr viel Pech. Bei einer Wochenendreise nach Lissabon musste ich zusammen mit zwei anderen Couchsurferinnen im Wohnzimmer auf dem Boden schlafen. Die Wohnung war total chaotisch und nicht sauber. Nach der ersten Nacht wollte ich ein Zimmer in einem Hostel buchen, aber sie hatten keine Zimmer frei. Ich habe mich sehr geärgert! Zum Glück waren die beiden anderen Couchsurferinnen sehr nett. Wir haben zusammen ein Musikfestival besucht und uns Lissabon angesehen. Die Stadt ist wirklich toll und das Festival war klasse!
+
+Rike
+
+Meine Familie und ich tauschen mindestens einmal pro Jahr unser Haus in Bremen mit Häusern oder Wohnungen von anderen Familien. Diesen Sommer haben wir unser Haus mit dem Haus einer Familie aus Südtirol getauscht. Wir haben zwei Wochen Ferien in den Bergen gemacht. Der Ort war klein und ruhig. Das war Entspannung pur! Mit dem Haus waren wir nicht ganz zufrieden, weil die Zimmer klein und dunkel waren. Aber das war kein Problem, denn wir haben viele Ausflüge gemacht, sind gewandert und geschwommen. Gleich in der Nähe war ein See. Die Natur ist dort wunderschön. Wir hatten einen super Urlaub!
+
+Familie Jung
+
+Mein Mann und ich lieben Camping. Wir verreisen immer mit unserem Wohnmobil. Wir mögen keine Hotels und sind gern unterwegs. Ein Vorteil ist, dass wir unsere Pläne auch schnell mal ändern können. Letzten Sommer waren wir in Österreich. Das war klasse. Wir sind gern in der Natur, aber manchmal fahren wir auch in Städte und besuchen Museen oder gehen ins Theater. Wir waren in Salzburg bei den Salzburger Festspielen. Das hat uns gut gefallen, denn wir lieben klassische Musik. Toll war auch, dass auf den Campingplätzen nicht so viel los war. Wir haben immer einen Platz bekommen und sehr nette Menschen kennengelernt. Nach Österreich fahren wir bestimmt mal wieder!
+
+Lisa und Kolja Sommer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+**MIETEN - KAUFEN - WOHNEN: IMMOBILIEN HEGENAU**
+
+**Aktuelles**
+
+Sie suchen eine Wohnung, ein Haus, ein WG-Zimmer? Wir finden für Sie die perfekte Lösung.
+
+**Objekt 1**
+
+**Im Grünen wohnen**  
+Einfamilienhaus 145 m² mit Garten in Mühlheim (Nähe Offenbach). Das schöne Haus ist ideal für eine Familie. Auf zwei Stockwerken bietet das Haus drei Schlafzimmer, zwei Bäder, eine Küche und ein Wohnzimmer. Im Erdgeschoss sind das große Wohnzimmer und die Küche. Die drei Schlafzimmer sind alle im ersten Stock. Der große Garten hat 100 m². Es gibt eine Garage für ein Auto.  
+Miete: 1350 Euro + 250 Euro Nebenkosten
+
+**Objekt 2**
+
+**Altbauwohnung mit Stil!**  
+Direkt am Lilipark liegt die wunderschöne Altbauwohnung mit Balkon im 4. Stockwerk – hoch über den Dächern von Offenbach. Die Wohnung hat 127 m² und verfügt über einen Wohn-, Ess-, und Kochbereich, drei Schlafzimmer und zwei Bäder. Das Haus ist neu renoviert. Die hohen Decken machen diese Wohnung zu einem Highlight.  
+Warmmiete: 1480 Euro
+
+**Objekt 3**
+
+**Frei ab März! Zimmer in 3er-WG zu vermieten.**  
+In unserer Wohngemeinschaft in der Sonnenstraße 45 ist ab März ein Zimmer frei. Das Zimmer ist 22 m² groß. Neben den drei Schlafzimmern gibt es ein Wohnzimmer und eine Küche.  
+WM: 390 €
+
+**Objekt 4**
+
+**Zu vermieten! Ideal für Singles.**  
+Die kleine Wohnung liegt nur 10 Minuten vom Zentrum entfernt in der Adalbert-Stift-Straße 89 in Frankfurt. Die 42 m² Wohnung kann ab 1. September gemietet werden. Die Wohnung hat ein Schlafzimmer, ein Badezimmer, einen Koch- und Wohnbereich und einen Balkon in den Innenhof. Für 80 Euro pro Monat kann ein Tiefgaragenplatz gemietet werden.  
+Miete: 420 Euro + 100 Euro NK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich bin Studentin und suche eine Wohnung oder ein WG-Zimmer (inkl. BK). Miete bis 600 €. Ich habe ein Auto und brauche einen Parkplatz. Kontakt: Julia.Grünberg@uimh.de
+Objekt 4
+
+Wir suchen eine Wohnung oder ein Haus mit Balkon oder Garten und Autoabstellplatz. Wir haben zwei Töchter und brauchen drei Schlafzimmer. Miete: Bis max. 1700 Euro Warmmiete. Kontakt: Marco Richter 0172/12345677
+Objekt 1
+
+Suche dringend eine Wohnung oder ein WG-Zimmer! Miete inkl. NK maximal 400 €. Kontakt: marie.schoene@amx.de
+Objekt 3
+
+Mein Mann und ich suchen eine 4-Zimmer-Wohnung mit Balkon oder Garten und Tiefgarage. Maximale Monatsmiete 1400 Euro. Kontakt: Greta Bäcker 0179/88 99 11 66
+kein Objekt
+
+Wir suchen eine Wohnung ca. 130 m2 (4-Zimmer-Wohnung) oder ein Haus mit Balkon oder Garten. WM bis max. 1500 Euro. Kontakt: torben.scheitz@stermannundsoehne.de
+Objekt 2
+
+
+
+
+
+
+
+Das Haus hat keinen Aufzug. 
+Die Wohnung ist im Dachgeschoss. 
+Es gibt keine Badewanne.
+Die Wohnung hat zwei Schlafzimmer.
+Herrn und Frau Novacki gefällt die Wohnung. 
+Die Wohnung hat 153 m².
+Die Kaltmiete beträgt 1190 Euro. 
+Herr und Frau Novacki nehmen die Wohnung.
+
+
+Wie groß ist die Wohnung?
+Sie hat 135 Quadratmeter.
+
+Wo liegt die Wohnung?
+Direkt am Stadtpark.
+
+Wie hoch ist die Miete?
+Die Miete beträgt 1490 Euro.
+
+Wie hoch sind die Nebenkosten?
+300 Euro.
+
+Wie viele Zimmer hat die Wohnung?
+Drei Schlafzimmer, eine Küche, ein Wohnzimmer, ein Badezimmer und einen Abstellraum.
+
+In welchem Stockwerk ist die Wohnung?
+Im Dachgeschoss.
+
+
+
+
+
+
+
+
+
+
+Gibt es denn irgendwo Platz für einen Kinderwagen?
+Ja. Den Kinderwagen kann man direkt hier im Treppenhaus abstellen.
+Okay. Und wo können wir unsere Fahrräder abstellen?
+Die Fahrräder können Sie da in der Garage abstellen
+
+
+Kommen Sie bitte herein.
+Danke.
+Das erste Zimmer hier links ist die Küche.
+Mmh … Schön. Alina, wie gefällt dir die Küche?
+
+
+So. Hier links ist gleich das Gäste-WC und hier am Ende des Flurs das große Bad.
+Das Bad ist schön. Und es gibt eine Badewanne. Super!
+Ja, mir gefällt es auch.
+Und hier links ist gleich ein Schlafzimmer.
+Mmh … Das Zimmer ist schön groß.
+
+
+Mmmh … Das ist okay. Die Kinder brauchen Platz. Wo ist denn das Wohnzimmer?
+Dort vorne. Bitte … Die großen Fenster in dieser Altbauwohnung machen die Räume sehr hell.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wir wohnen in einer Dachwohnung im Zentrum von Frankfurt am Main. Das Highlight ist die große Dachterrasse mit dem fantastischen Blick über die ganze Stadt. Nach der Arbeit oder am Wochenende sitzen wir gerne dort und relaxen. Mein Mann und ich sind Stadtmenschen. Wir lieben die vielen Freizeitangebote: Am Montag ins Kino, am Freitag ins Theater, und am Samstag ins Konzert.
+
+Jan und Pia, Frankfurt a. M.
+
+
+
+Direkt in der Natur, aber in Stadtnähe wohnen, das war immer unser Traum! Seit einem halben Jahr wohnen wir hier in Grünwald, das ist in der Nähe von München. Das moderne Haus hat meine Frau geplant. Sie ist Architektin. In den großen Räumen haben wir endlich viel Platz. Die Kinder lieben das neue Haus und besonders den tollen Garten.
+
+Patricia und Lars, Grünwald
+
+
+
+Wir leben seit einem Monat auf einem Hausboot. Wir lieben die tolle Lage: Wir sind hier mitten in Hamburg, aber rund um uns ist Natur. Unser Hausboot liegt auf dem ruhigen Eilbekkanal. Wir genießen den tollen Ausblick auf das Wasser und fühlen uns hier so richtig wohl.
+
+Ildiko und Sophie, Hamburg
+
+
+
+Dieses gemütliche Haus ist unser Zuhause. Mein Mann und ich leben seit zwei Jahren hier auf der schönen Insel Rügen, im Norden von Deutschland. Wir haben das alte Haus mit dem großen Garten gekauft und renoviert. Auf dem Foto sieht man unseren Garten mit den schönen Bäumen. Am Wochenende bekommen wir oft Besuch von unseren Kindern und Enkelkindern. Dann sitzen wir draußen, grillen und spielen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wir haben das gemütliche Haus gekauft.
+Das Haus ist gemütlich. Wir haben es gekauft.   
+
+Wir genießen den tollen Ausblick.
+Der Ausblick ist toll. Wir genießen ihn.    
+
+Wir mögen die netten Nachbarn.
+Die Nachbarn sind nett. Wir mögen sie.    
+
+Der große Garten gefällt meinem Mann.
+Der Garten ist groß. Er gefällt meinem Mann.    
+
+Die schöne Wohnung ist im vierten Stock.
+Die Wohnung ist schön. Sie ist im vierten Stock.    
+
+Ich lebe gern auf dem modernen Hausboot.
+Das Hausboot ist modern. Ich lebe gern hier.    
+
+
+
+
+
+Hallo Doreen,
+
+ich habe schon lange nichts von dir gehört? Geht es dir gut?
+Bei mir gibt es super Neuigkeiten  ! Weißt du noch, das schöne (schön) Hausboot am Eilbekkanal? Ildiko und ich haben es gemietet und leben jetzt seit zwei Monaten direkt am Wasser. Ildiko hat ja schon in Amsterdam auf einem Hausboot gelebt. Für mich war es am Anfang komisch, aber jetzt finde ich es wirklich super! Nur die kleine (klein) Küche finde ich total unpraktisch. Ich koche doch so gern …
+Besonders toll ist die zentrale (zentral) Lage. Zu Fuß brauche ich nur 15 Minuten zur Arbeit und in 20 Minuten sind wir im Zentrum. Super, oder? Und am Morgen kann man auf der ruhigen (ruhig) Uferstraße laufen gehen.
+Ich hoffe du kommst uns bald mal besuchen! Der fantastische (fantastisch) Ausblick und die hellen (hell), modernen (modern) Räume gefallen dir bestimmt!
+
+Viele liebe Grüße
+Sophie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hallo Julius. Na, wie geht es dir in der neuen Wohnung?
+
+Hi Erik. Gut, danke.
+
+Erzähl‘ ein bisschen … Wie groß ist die Wohnung?
+
+Sie hat 62 m2.
+
+Und wie viele Zimmer?
+
+2.
+
+Und wie sind die Zimmer?
+
+Das Wohnzimmer ist groß und sehr hell. Und die Küche ist wirklich praktisch. Da kann ich super kochen und man kann auch schön da sitzen. Das Schlafzimmer ist ziemlich klein, aber das ist okay.
+
+Klingt gut! Hat die Wohnung auch einen Balkon?
+
+Nein, leider nicht.
+
+Schade! Und wie lange brauchst du zur Arbeit?
+
+Mit dem Rad brauche ich nur zehn Minuten! Die Lage ist super! Gleich in der Nähe ist das Stadion und es gibt auch eine Schwimmhalle, einen Supermarkt und eine Bar! 
+
+Super! Und gibt es ein Kellerabteil? Du hast ja viele Sachen. Dein Surfbrett und dein Snowboard …
+
+Nein, leider. Die Sachen stehen jetzt im Flur.
+
+Oje, das ist nicht so toll …
+
+Naja, es geht …
+
+Und wie teuer ist die Miete?
+
+950 Euro! 
+
+Was? Das ist aber teuer!!!
+
+Ja, aber die Wohnung ist neu renoviert und die Lage ist perfekt! Das große Wohnzimmer und die gemütliche Küche gefallen dir bestimmt! Du musst mich bald mal besuchen.
+
+Vielleicht schaffe ich es nächsten Monat! 
+
+Ok. Meld‘ dich!
+
+Mach‘ ich …
+
+
+
+
+
+
+
+
+
+
+
+
+Sind das eure Fahrräder?
+Ein Fahrrad gehört der neuen Mitbewohnerin.
+Das gehört mir
+
+
+
+
+
+
+
+
+Johanna, ist das Answer dein Handy?
+Ja, das gehört mir.
+
+
+
+Frau Schuster, im Flur liegen schon wieder die Spielsachen von Answer Ihren Kindern.
+Nein, das sind nicht Answer unsere Sachen. Sie gehören vielleicht Familie Schilling.
+
+
+
+Wo ist Aaron?
+Ist er nicht in Answer seinem Zimmer?
+Nein.
+Vielleicht ist er mit dem Hund spazieren gegangen.
+
+
+
+Sigrid, sieh mal, im Briefkasten war ein Brief für Frau Jäger.
+Ja, das ist schon öfter passiert. Leg ihn dorthin. Ich gehe später noch einkaufen. Da werfe ich ihn dann in Answer ihren Briefkasten.
+
+
+
+
+
+
+
+
+
+
+
+
+In the sentence "Meinem Mann geht es leider nicht so gut," the structure can be a bit confusing, but here's how it works:
+
+- **"Meinem Mann"**: This is in the dative case and refers to the person whose condition is being described. It acts as the indirect object or recipient of the condition.
+
+- **"geht es"**: The phrase "geht es" is used here to describe the state or condition. The pronoun "es" is the subject of the verb "geht."
+
+- **"leider nicht so gut"**: This describes the condition or state, meaning "unfortunately not so well."
+
+### Explanation:
+
+In this construction, "es" is the subject of the verb "geht." The dative phrase "Meinem Mann" indicates whose condition is being discussed. This is a common way in German to express states of being or conditions.
+
+So, although "Meinem Mann" is not the grammatical subject, it is the dative recipient of the state described by the verb "geht." The actual grammatical subject of the sentence is "es," which refers to the overall state or condition being described. 
+
+In summary:
+- **Subject**: "es"
+- **Dative Indirect Object**: "Meinem Mann"
+- **Condition**: "leider nicht so gut"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi Lara,
+bitte entschuldige, dass ich erst jetzt auf deine Mail antworte, aber ich habe gerade wenig Zeit. Ich bin in eine neue WG gezogen, weil wir immer wieder Probleme mit unserem Vermieter hatten. Das war Stress pur.
+Meine neuen Mitbewohner heißen Johanna und Aaron. Aaron wohnt mit seinem Hund in der WG. Wir sind also zu viert.  Die Beiden sind echt nett und haben mir viel mit den Möbeln geholfen. Die Nachbarn im Haus kenne ich noch nicht so gut, nur Frau Schuster von gegenüber. Ihre Kinder Ronja und Joscha sind ganz süß.
+Wie geht es dir und Sam? Was ist mit euren Hochzeitsplänen? Habt ihr schon einen Termin für die Feier? Ich freue mich sehr für euch.
+Besucht mich doch bald in meiner neuen WG, unsere Adresse ist Kastanienallee 24.
+
+Liebe Grüße
+Nina
+
+Übrigens: Ich habe gestern deinen Bruder getroffen. Er wohnt hier ganz in der Nähe.
+
+
+
+
+Ich mache das, versprochen!
+
+
+
+
+Ich habe ein Sofa gekauft. Es kommt morgen. Ich muss leider arbeiten.
+Können Sie die Firma in meine Wohnung lassen?
+
+Die Haustür war gestern die ganze Nacht offen.
+Bitte schließen Sie die Tür ab 21:00 Uhr immer ab.
+
+Die Fahrräder dürfen nicht im Treppenhaus stehen.
+Bitte bringen Sie sie in den Fahrradkeller.
+
+Wir sind nächste Woche nicht da.
+Können Sie vielleicht unsere Katze füttern?
+
+Sie sind diesen Monat mit der Treppenreinigung dran.
+Bitte putzen Sie das Treppenhaus.
+
+Ich möchte einen Kuchen machen und habe die Eier vergessen.
+Kann ich vielleicht zwei Eier haben?
+
+
+
+
+
+
+
+Liebe Nachbarn,
+
+ich bin neu in der WG Stöckel/Rostek im zweiten Stock. Am 20.05. feiere ich meine Einweihungsparty. Ich bitte um Verständnis, wenn es an dem Abend etwas laut wird. Der Vermieter ist bereits informiert. Mitfeiern ist kein Problem - Bier und andere Getränke stehen kalt!
+Alle sind herzlich eingeladen!
+
+Nina Strauch
+
+
+
+
+
+Jagemann & Söhne
+
+Sehr geehrte Mieter,
+
+bitte beachten Sie eine Änderung:
+Die Hofreinigung ist ab jetzt immer mittwochs zwischen 9:00 und 11:00 Uhr. Bitte nutzen Sie die Parkplätze im Hof zu dieser Zeit nicht. Danke für Ihr Verständnis.
+
+Mit freundlichen Grüßen
+die Hausverwaltung
+Firma Jagemann und Söhne
+
+
+
+
+
+
+Nina macht bald eine Party.
+Zur Party lädt Nina alle Hausbewohner in die WG ein.
+Am 20. Mai kann es im Haus etwas laut sein.
+Einmal in der Woche kommt eine Firma und reinigt den Hof.
+Ab sofort kommt der Reinigungsservice immer am Mittwoch.
+Die Mieter dürfen Mittwochvormittag nicht auf dem Hof parken.
+
+
+
+
+
+Liebe Hausbewohner,
+
+am Mittwoch, den 13.12. zwischen 10:00 und 12:00 Uhr kommt eine Firma und repariert die Heizung in unserer Wohnung. Bei der Reparatur muss die Firma leider die Anlage für das ganze Haus ausschalten.
+
+Bitte beachten Sie: Zwischen 10:00 und 13:00 Uhr funktioniert die Heizung an diesem Tag im ganzen Haus nicht.
+
+Ich danke für Ihr Verständnis.
+
+Herzliche Grüße
+Sigi Schilling
+
+
+
+
+
+
+Hier sieht man alle Bewohner aus dem Mehrgenerationenhaus.
+Einige Personen spielen Theater.
+Mein Kind hat hier viele Freunde und Erwachsene zum Backen, Spielen ...
+Alle Bewohner feiern ein Fest.
+
+
+
+
+
+
+Liebe Bewohner,
+
+wie ihr wisst: 
+Am letzten Samstag war unser Frühjahrsputz in den Gemeinschaftsräumen und im Garten. 
+Es war wirklich toll, dass fast alle Zeit hatten und kommen konnten!!! 
+Wir haben total viel geschafft. 
+Beim nächsten Mal sind es sicher noch mehr Helfer!!!
+
+Danke!
+Hartmut für das Putz-Team
+
+
+
+
+
+
+
+Meine Familie und ich wohnen seit drei Jahren hier. Damals sind wir neu in die Stadt gekommen und wollten hier schnell Leute kennenlernen. Wir hatten Glück, dass gerade eine Wohnung frei war.
+Jeder kann etwas tun für die anderen, das finde ich besonders wichtig. Meine Frau hilft einigen älteren Bewohnern und kauft für sie ein. Ich mache Gymnastikkurse, ich bin Physiotherapeut.
+Die Kinder und auch wir haben viele Freunde gefunden, denn es gibt viele Familien hier. Natürlich gibt es auch mal Probleme – bei so vielen Menschen unter einem Dach. Da ist es wichtig, dass man miteinander redet und gemeinsam Lösungen findet.
+Jost Müller
+
+Langeweile gibt es nie, denn es ist immer etwas los. Sportkurs, Theatergruppe, Kochabende … Und die vielen Kinder, das finde ich so schön. Manchmal brauche ich auch meine Ruhe. Dann mache ich meine Tür zu. Das verstehen die anderen.
+Ich wohne erst seit vier Monaten hier. Alleine war es schwer für mich. Ich bin ja schon 84, aber ins Altersheim, das wollte ich nicht. Und ich muss sagen, das war richtig: Mir geht es wirklich gut. Hier ist immer jemand zum Reden. Ich gehe einfach in den Garten. Da kommt sicher jemand vorbei. Ich bekomme viel Hilfe, aber ich kann auch anderen eine Freude machen, denn ich stricke gern.
+Erika Fischer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicht nur Studenten teilen sich heute eine Wohnung. Immer mehr Singles oder auch alte Menschen ziehen in Mehrgenerationenhäuser oder in WGs und genießen das Leben in Gemeinschaft mit anderen.
+
+Das Leben in Gemeinschaft ist sehr beliebt, vor allem in den teuren Großstädten. Jeder zahlt einen Teil der Miete, so kann man viel Geld sparen. Die meisten Studenten wollen gemeinsam günstig wohnen. Aber sie wollen auch mit anderen lernen und Partys feiern. Bei berufstätigen Singles ist das Geld meist kein Grund. Doch auch viele berufstätige Singles leben gern in WGs. Alte Menschen können oft nicht mehr allein wohnen, weil sie Hilfe brauchen. Mehrgenerationenhäuser oder Wohngemeinschaften finden immer mehr Senioren besser als das Altersheim. Student, Senior oder berufstätiger Single, wichtig ist: Die Mitbewohner müssen zueinander passen und die gleichen Sachen mögen: zum Beispiel in der Freizeit. Auch Themen wie Ordnung, Pünktlichkeit, Lieblingsmusik oder Tiere sind wichtig für das Zusammenleben. Sehr gut funktionieren WGs mit Freunden.
+
+
+
+
+
+
+Immer mehr Menschen leben in einer Wohngemeinschaft.
+Für Studenten muss die Miete billig sein.
+Wenn die Mitbewohner Freunde sind, funktioniert das Zusammenleben meist gut.
+Es ist gut, wenn die Bewohner in einer WG die gleichen Hobbys haben.
+
+
+
+
+
+
+
+
+
+
+

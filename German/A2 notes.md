@@ -173,7 +173,6 @@ ___
 </details>
 
 ___
-
 #### Sentence Types
 
 <details>
@@ -258,7 +257,6 @@ ___
 </details>
 
 ___
-
 #### Cases
 <details>
   <summary>Cases</summary>
@@ -588,7 +586,6 @@ ___
    - Verbs of motion (going, coming, arriving, etc.): "Ich bin nach Hause gegangen." (I went home.)
    - Verbs indicating a change of state: "Er ist eingeschlafen." (He fell asleep.)
    - A few other intransitive verbs like "sein" (to be) and "bleiben" (to stay).
-
 ### Explanation of Examples
 
 1. **Heute bin ich zu spät zur Schule gekommen.**
@@ -618,7 +615,6 @@ ___
 7. **Die Astrid Lindgren Schule hat alles sehr gut organisiert.**
    - "organisieren" (to organize) is a transitive verb. Therefore, it uses "haben."
    - "organisiert" is the past participle of "organisieren."
-
 ### Formation of Past Participles
 
 - For weak verbs (regular verbs), the past participle is typically formed by adding "ge-" at the beginning and "-t" at the end:
@@ -1410,6 +1406,291 @@ ___
 </details>
 
 ___
+
+
+
+#### Ellipsis in German
+<details>
+
+  <summary>
+  Ellipsis in German
+  </summary>
+
+  
+- Ellipsis is a linguistic phenomenon where parts of a sentence are left out because they can be understood from the context. This makes sentences shorter and can sometimes make speech or writing sound more natural or stylistically interesting.
+
+- Here are some examples and explanations suitable for a B1 German level:
+
+1. Omitting the Subject  
+   Full sentence: "Wir gehen ins Kino." (We are going to the cinema.)  
+   Ellipsis: "Gehen ins Kino." (The subject "wir" is omitted because it's understood from the context.)
+
+2. Omitting the Verb  
+   Full sentence: "Ich habe einen Hund und er hat eine Katze." (I have a dog and he has a cat.)  
+   Ellipsis: "Ich habe einen Hund und er eine Katze." (The verb "hat" is omitted in the second clause because it is clear from the first.)
+
+3. Omitting Both Subject and Verb  
+   Full sentence: "Wenn du kommst, dann bring bitte das Buch mit." (If you come, please bring the book.)  
+   Ellipsis: "Kommst du, bring bitte das Buch." (The word "wenn" and the structure are simplified, assuming the listener understands the condition.)
+
+4. Omitting Parts of Clauses in Comparisons  
+   Full sentence: "Ich bin genauso müde wie du." (I am as tired as you are.)  
+   Ellipsis: "Ich bin genauso müde wie du." (The verb "bist" is understood and thus omitted.)
+
+5. Omitting Repeated Information  
+   Full sentence: "Sie wollte den Kuchen essen, aber sie konnte den Kuchen nicht essen." (She wanted to eat the cake, but she couldn't eat the cake.)  
+   Ellipsis: "Sie wollte den Kuchen essen, aber konnte nicht." (The repetition of "den Kuchen" and "essen" is omitted.)
+</details>
+
+___
+
+
+#### Cleft sentences
+<details>
+  <summary>
+  Cleft sentences
+  </summary>
+
+  The sentences you provided use **cleft sentences** to emphasize specific parts of the sentence. In German, cleft sentences are often formed using "was" or "wer" at the beginning, followed by a clause that introduces the subject or object. This structure can highlight positive or negative aspects by isolating them in a clause.
+
+  Here’s a breakdown:
+
+  **Positive Connections**
+  - **"Was schön war, war der Ausblick."**  
+    *Translation: "What was beautiful was the view."*
+
+    This structure emphasizes the positive aspect ("schön") by focusing specifically on the view.
+
+  - **"Was mir gefallen hat, war das Konzert."**  
+    *Translation: "What I liked was the concert."*
+
+    Here, the positive aspect ("gefallen") is highlighted, emphasizing the speaker's enjoyment of the concert.
+
+  **Negative Connections**
+  - **"Was nicht so toll war, war das Essen."**  
+    *Translation: "What wasn't so great was the food."*
+
+    This sentence emphasizes the negative aspect ("nicht so toll") by specifically pointing out the food as the element that was lacking.
+
+  These sentences can be used to contrast positive and negative elements clearly. This type of structure is particularly useful for comparing and contrasting experiences, opinions, or observations.
+
+  **Usage in Context**
+  **Positive:**  
+  "Was mir besonders gefallen hat, war die Freundlichkeit des Personals."  
+  *(What I particularly liked was the friendliness of the staff.)*
+
+  **Negative:**  
+  "Was ich nicht so gut fand, war die Lautstärke der Musik."  
+  *(What I didn't like was the loudness of the music.)*
+
+</details>
+
+
+___
+
+
+
+
+#### Different Ways to Answer Questions About Time in German
+<details>
+  <summary>Different Ways to Answer Questions About Time in German</summary>
+
+  | **Question**                        | **Possible Answers in German**                              |
+  |-------------------------------------|-------------------------------------------------------------|
+  | **Wann hast du Urlaub?**            | Im Juni/Oktober. / Vom 7. bis 19. Juli. / Nächste Woche.    |
+  | **Wann kommt er?**                  | Am Nachmittag. / Um zwei. / Nächste Woche. / Im August.     |
+  | **Wann beginnen die Ferien?**       | Am 7. Juli. / Nächste Woche. / Am Dienstag.                 |
+  | **Wie lange dauert …?**             | Einen Monat. / Eine Stunde. / Zwei Tage. / (Von) … bis …    |
+  | **Wie lange bleibst du hier?**      | Von … bis … / Bis Montag. / Eine Woche.                     |
+  | **Wann fängt der Unterricht an?**   | Um acht Uhr. / Am Montag. / Morgen früh.                    |
+  | **Wann endet die Veranstaltung?**   | Um zehn Uhr. / In einer Stunde. / Am Abend.                 |
+  | **Wann öffnet das Geschäft?**       | Um neun Uhr. / Morgen. / Am Wochenende.                     |
+  | **Wann ist das Meeting?**           | Um drei Uhr. / Am Freitag. / Nächsten Monat.                |
+  | **Wann hast du Geburtstag?**        | Am 15. März. / Nächste Woche. / Im Januar.                  |
+  | **Wann gehst du ins Bett?**         | Um zehn Uhr. / Nach dem Abendessen. / Spät in der Nacht.    |
+  | **Wann kommst du zurück?**          | In einer Stunde. / Am Dienstag. / Nach dem Urlaub.          |
+  | **Wann fährst du ab?**              | Um sechs Uhr morgens. / Nächsten Sonntag. / In zwei Tagen.  |
+  | **Wie lange dauert die Reise?**     | Eine Woche. / Zwei Stunden. / Vom 1. bis 10. August.        |
+  | **Wie lange arbeitest du?**         | Acht Stunden am Tag. / Bis fünf Uhr. / Seit drei Jahren.    |
+
+  | **Preposition**  | **Usage**                                          | **Examples**                                      |
+  |------------------|----------------------------------------------------|---------------------------------------------------|
+  | **um**           | Specific times (clock time)                        | Um drei Uhr (at three o'clock)                    |
+  | **am**           | Days, parts of the day, dates                      | Am Montag (on Monday), am Abend (in the evening)  |
+  | **im**           | Months, seasons, years                             | Im Januar (in January), im Sommer (in summer)     |
+  | **vom … bis …**  | From ... to ... (range of time)                    | Vom 1. bis 10. August (from August 1 to 10)       |
+  | **von … bis …**  | From ... to ... (range within a day)               | Von 9 bis 17 Uhr (from 9 to 5 o'clock)            |
+  | **nach**         | After (a point in time)                            | Nach dem Mittagessen (after lunch)                |
+  | **vor**          | Before (a point in time)                           | Vor dem Abendessen (before dinner)                |
+  | **seit**         | Since (a point in time); for (a duration)          | Seit 2010 (since 2010), seit drei Stunden (for three hours) |
+  | **in**           | In (a certain amount of time in the future)        | In einer Woche (in a week)                        |
+
+
+
+</details>
+
+___
+
+
+#### Unintroduced Object Clause vs. "dass" Clause in German
+
+<details>
+  <summary>Unintroduced Object Clause vs. "dass" Clause in German
+  </summary>
+
+
+
+  ##### Unintroduced Object Clause vs. "dass" Clause in German
+
+  In German, you can express indirect statements or thoughts in two main ways: with unintroduced object clauses and with "dass" clauses. The main difference lies in the presence or absence of the conjunction "dass" and the position of the verb.
+
+  ##### Unintroduced Object Clause
+
+  An unintroduced object clause (also called a "zero conjunction clause") is a subordinate clause that follows a main clause, expressing an indirect statement or thought. In this structure, the verb of the subordinate clause comes immediately after the subject (verb-second position), similar to a main clause.
+
+  ##### Example:
+  - **Main clause:** Pavel findet, Couchsurfen ist toll.
+    - **Translation:** Pavel thinks couchsurfing is great.
+
+  Here, the subordinate clause "Couchsurfen ist toll" directly follows the main clause without any conjunction like "dass." The verb "ist" is in the second position, directly following the subject "Couchsurfen."
+
+  ##### "dass" Clause
+
+  In a "dass" clause, the conjunction "dass" introduces the subordinate clause. This clause also expresses an indirect statement or thought, but the verb is placed at the end of the clause, as is typical in German subordinate clauses.
+
+  ##### Example:
+  - **Main clause:** Pavel findet, dass Couchsurfen toll ist.
+    - **Translation:** Pavel thinks that couchsurfing is great.
+
+  In this sentence, "dass" introduces the subordinate clause "dass Couchsurfen toll ist." The verb "ist" is positioned at the end of the clause, which is a key feature of subordinate clauses in German.
+
+  ##### Comparison of Structures
+
+  1. **Unintroduced Object Clause:**
+    - **Structure:** Main clause, [Subject + Verb + ...]
+    - **Example:** Pavel findet, Couchsurfen ist toll.
+    - **Verb Position:** Verb in the second position.
+
+  2. **"dass" Clause:**
+    - **Structure:** Main clause, dass [Subject + ... + Verb]
+    - **Example:** Pavel findet, dass Couchsurfen toll ist.
+    - **Verb Position:** Verb at the end.
+
+  ##### Usage in Context
+
+  The choice between using an unintroduced object clause and a "dass" clause can depend on style and emphasis. "dass" clauses are more formal and explicit, often preferred in writing or formal speech. Unintroduced object clauses are more common in spoken German and can make sentences feel more direct and fluid.
+
+  ##### Examples in Context:
+
+  - **Unintroduced Object Clause:**  
+    "Ich glaube, sie kommt heute nicht."  
+    *(I think she's not coming today.)*
+
+  - **"dass" Clause:**  
+    "Ich glaube, dass sie heute nicht kommt."  
+    *(I think that she's not coming today.)*
+
+  Both sentences convey the same meaning, but the "dass" clause adds a layer of formality and clarity.
+
+  Understanding and using these structures correctly is essential for clear and nuanced communication in German.
+
+
+</details>
+
+___
+
+
+
+#### Adjectives after the definite article
+<details>
+  <summary> Adjectives after the definite article
+  </summary>
+  
+  **Adjective Endings Table**
+
+  | Case       | Gender      | Definite Article     | Indefinite Article     | No Article     |
+  |------------|-------------|----------------------|------------------------|----------------|
+  | **Nominative** | Masculine   | der gute Mann        | ein guter Mann         | guter Mann     |
+  |            | Feminine    | die gute Frau        | eine gute Frau         | gute Frau      |
+  |            | Neuter      | das gute Kind        | ein gutes Kind         | gutes Kind     |
+  |            | Plural      | die guten Kinder     | (keine) gute Kinder    | gute Kinder    |
+  | **Accusative** | Masculine   | den guten Mann       | einen guten Mann       | guten Mann     |
+  |            | Feminine    | die gute Frau        | eine gute Frau         | gute Frau      |
+  |            | Neuter      | das gute Kind        | ein gutes Kind         | gutes Kind     |
+  |            | Plural      | die guten Kinder     | (keine) gute Kinder    | gute Kinder    |
+  | **Dative** | Masculine   | dem guten Mann       | einem guten Mann       | gutem Mann     |
+  |            | Feminine    | der guten Frau       | einer guten Frau       | guter Frau     |
+  |            | Neuter      | dem guten Kind       | einem guten Kind       | gutem Kind     |
+  |            | Plural      | den guten Kindern    | (keinen) guten Kindern | guten Kindern  |
+
+  **Explanation**
+  1. **Definite Article (Der-words)**: The definite articles (der, die, das) determine the adjective ending.
+  2. **Indefinite Article (Ein-words)**: The indefinite articles (ein, eine) also influence the adjective ending, but there are no indefinite articles in the plural form.
+  3. **No Article**: When no article is present, the endings are different, and the adjective takes the strong ending forms.
+
+  **Examples**
+
+  **Nominative Case**
+  - Der gute Mann (The good man)
+  - Eine gute Frau (A good woman)
+  - Gutes Kind (Good child - without an article)
+
+  **Accusative Case**
+  - Den guten Mann (The good man - direct object)
+  - Einen guten Mann (A good man - direct object)
+  - Gute Frau (Good woman - direct object without an article)
+
+  **Dative Case**
+  - Dem guten Mann (To the good man)
+  - Einer guten Frau (To a good woman)
+  - Guten Kindern (To good children - without an article)
+
+</details>
+
+
+___
+
+
+#### Possessive Articles Table
+<details>
+  <summary> Possessive Articles Table
+  </summary>
+  
+  **Possessive Articles Table**
+
+  | Case        | Gender      | Singular (Masculine) | Singular (Feminine)   | Singular (Neuter)   | Plural            |
+  |-------------|-------------|----------------------|-----------------------|---------------------|-------------------|
+  | **Nominative** | Masculine   | mein, dein, sein, etc. | meine, deine, seine, etc. | mein, dein, sein, etc. | meine, deine, seine, etc. |
+  | **Accusative** | Masculine   | meinen, deinen, seinen, etc. | meine, deine, seine, etc. | mein, dein, sein, etc. | meine, deine, seine, etc. |
+  | **Dative** | Masculine   | meinem, deinem, seinem, etc. | meiner, deiner, seiner, etc. | meinem, deinem, seinem, etc. | meinen, deinen, seinen, etc. |
+
+  **Explanation**
+
+  1. **Nominative Case**:
+    - Masculine: mein, dein, sein, ihr, unser, euer, ihr, Ihr
+    - Feminine: meine, deine, seine, ihre, unsere, eure, ihre, Ihre
+    - Neuter: mein, dein, sein, ihr, unser, euer, ihr, Ihr
+    - Plural: meine, deine, seine, ihre, unsere, eure, ihre, Ihre
+
+  2. **Accusative Case**:
+    - Masculine: meinen, deinen, seinen, ihren, unseren, euren, ihren, Ihren
+    - Feminine: meine, deine, seine, ihre, unsere, eure, ihre, Ihre
+    - Neuter: mein, dein, sein, ihr, unser, euer, ihr, Ihr
+    - Plural: meine, deine, seine, ihre, unsere, eure, ihre, Ihre
+
+  3. **Dative Case**:
+    - Masculine: meinem, deinem, seinem, ihrem, unserem, eurem, ihrem, Ihrem
+    - Feminine: meiner, deiner, seiner, ihrer, unserer, eurer, ihrer, Ihrer
+    - Neuter: meinem, deinem, seinem, ihrem, unserem, eurem, ihrem, Ihrem
+    - Plural: meinen, deinen, seinen, ihren, unseren, euren, ihren, Ihren
+
+</details>
+
+
+
+___
+
+
 ## Topic based reminders
 #### Activities
 <details>
@@ -1479,42 +1760,59 @@ ___
   - Zum Frühstück gibt es bei mir Obst, Kaffee und ein Wurstbrot. Leider darf ich keine Milchprodukte essen und trinken, weil ich eine Allergie habe. Mittags kann ich nicht kochen, weil ich in der Uni bin. Das Abendessen ist sehr wichtig für mich, denn dann kann ich in Ruhe kochen – am liebsten indisch oder thailändisch. Am Wochenende treffe ich mich gerne mit Freunden auf einen Kaffee oder zum Brunch, vor allem im Café Kosmos, ich liebe den Schokokuchen dort.
 </details>
 
-
-#### Different Ways to Answer Questions About Time in German
+___
+#### Terms and abbreviations in accommodation listings
 <details>
-  <summary>Different Ways to Answer Questions About Time in German</summary>
+  <summary>Terms and abbreviations in accommodation listings
+  </summary>
 
-  | **Question**                        | **Possible Answers in German**                              |
-  |-------------------------------------|-------------------------------------------------------------|
-  | **Wann hast du Urlaub?**            | Im Juni/Oktober. / Vom 7. bis 19. Juli. / Nächste Woche.    |
-  | **Wann kommt er?**                  | Am Nachmittag. / Um zwei. / Nächste Woche. / Im August.     |
-  | **Wann beginnen die Ferien?**       | Am 7. Juli. / Nächste Woche. / Am Dienstag.                 |
-  | **Wie lange dauert …?**             | Einen Monat. / Eine Stunde. / Zwei Tage. / (Von) … bis …    |
-  | **Wie lange bleibst du hier?**      | Von … bis … / Bis Montag. / Eine Woche.                     |
-  | **Wann fängt der Unterricht an?**   | Um acht Uhr. / Am Montag. / Morgen früh.                    |
-  | **Wann endet die Veranstaltung?**   | Um zehn Uhr. / In einer Stunde. / Am Abend.                 |
-  | **Wann öffnet das Geschäft?**       | Um neun Uhr. / Morgen. / Am Wochenende.                     |
-  | **Wann ist das Meeting?**           | Um drei Uhr. / Am Freitag. / Nächsten Monat.                |
-  | **Wann hast du Geburtstag?**        | Am 15. März. / Nächste Woche. / Im Januar.                  |
-  | **Wann gehst du ins Bett?**         | Um zehn Uhr. / Nach dem Abendessen. / Spät in der Nacht.    |
-  | **Wann kommst du zurück?**          | In einer Stunde. / Am Dienstag. / Nach dem Urlaub.          |
-  | **Wann fährst du ab?**              | Um sechs Uhr morgens. / Nächsten Sonntag. / In zwei Tagen.  |
-  | **Wie lange dauert die Reise?**     | Eine Woche. / Zwei Stunden. / Vom 1. bis 10. August.        |
-  | **Wie lange arbeitest du?**         | Acht Stunden am Tag. / Bis fünf Uhr. / Seit drei Jahren.    |
+  | **Abbreviation**      | **Meaning**                                     | **Details**                                             |
+  |-----------------------|-------------------------------------------------|---------------------------------------------------------|
+  | **NK/BK**             | die Nebenkosten/ Betriebskosten                 | Wasser, Heizung, Müllabfuhr, etc.                       |
+  | **inkl.**             | inklusive                                       | Included                                                |
+  | **exkl.**             | exklusive                                       | Not included                                            |
+  | **m²**                | der Quadratmeter                                | Square meter                                            |
+  | **TG**                | Tiefgarage                                      | Underground parking                                     |
+  | **€**                 | Euro                                            | Currency symbol for Euro                                |
+  | **WM**                | die Warmmiete                                   | Rent + utilities                                        |
+  | **KM**                | die Kaltmiete                                   | Rent without utilities                                  |
+  | **WG**                | die Wohngemeinschaft                            | At least two people sharing a flat                      |
 
-  | **Preposition**  | **Usage**                                          | **Examples**                                      |
-  |------------------|----------------------------------------------------|---------------------------------------------------|
-  | **um**           | Specific times (clock time)                        | Um drei Uhr (at three o'clock)                    |
-  | **am**           | Days, parts of the day, dates                      | Am Montag (on Monday), am Abend (in the evening)  |
-  | **im**           | Months, seasons, years                             | Im Januar (in January), im Sommer (in summer)     |
-  | **vom … bis …**  | From ... to ... (range of time)                    | Vom 1. bis 10. August (from August 1 to 10)       |
-  | **von … bis …**  | From ... to ... (range within a day)               | Von 9 bis 17 Uhr (from 9 to 5 o'clock)            |
-  | **nach**         | After (a point in time)                            | Nach dem Mittagessen (after lunch)                |
-  | **vor**          | Before (a point in time)                           | Vor dem Abendessen (before dinner)                |
-  | **seit**         | Since (a point in time); for (a duration)          | Seit 2010 (since 2010), seit drei Stunden (for three hours) |
-  | **in**           | In (a certain amount of time in the future)        | In einer Woche (in a week)                        |
+
+  Salutation
+  Liebe Hausbewohner, … / Sehr geehrte Mieter, … / Liebe Nachbarn, …
+
+  Concern
+  Ich bitte um Ihr Verständnis.
+  Ich danke für Ihr Verständnis.
+
+  Sign-off
+  Herzliche Grüße / Mit freundlichen Grüßen
+  
+</details>
+
+___
+
+
+#### Belongings
+<details>
+  <summary>Belongings
+  </summary>
+
+  | **Expression**                                | **Example with Singular**       | **Example with Plural**             |
+  |-----------------------------------------------|----------------------------------|-------------------------------------|
+  | Ist das mein/dein/sein …?                     | Ist das mein Buch?               | Sind das meine Bücher?              |
+  | Das ist doch mein/dein/sein …, oder?          | Das ist doch mein Buch, oder?    | Das sind doch meine Bücher, oder?   |
+  | Das ist (nicht) mein/dein/sein …              | Das ist (nicht) mein Buch.       | Das sind (nicht) meine Bücher.      |
+  | Gehört das dir/ihm/ihr …?                     | Gehört das dir?                  | Gehören die dir?                    |
+  | Das gehört (nicht) mir/dir/ihm …              | Das gehört (nicht) mir.          | Die gehören (nicht) mir.            |
 
 
 
 </details>
+
+
+
+
+
 
