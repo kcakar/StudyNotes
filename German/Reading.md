@@ -1267,6 +1267,269 @@ Es ist gut, wenn die Bewohner in einer WG die gleichen Hobbys haben.
 
 
 
+Zimmer in Berlin (hell, ab 20 Quadratmeter) gesucht! Miete: bis 400 Euro Ich bin 25, zuverlässig, habe schon oft in WGs gewohnt, studiere Geografie. Ich mag Tiere (habe eine Katze) und Menschen. Koche gern und liebe Pflanzen, spiele Improtheater, mag Wasser und alle Aktivitäten in der Natur. Ich reise gern, mache gern etwas mit anderen Leuten gemeinsam, aber manchmal möchte ich auch die Tür zumachen. Ich bin Nichtraucherin.
+Maxi
 
+WG-Zimmer (15–25 Quadratmeter, bis 350 Euro Miete) Mein Name ist Flo, bin 28 und suche eine nette WG in Berlin nicht nur zum Wohnen: Gespräche, Ausflüge, gemeinsam Kochen oder so, finde ich super. Ich studiere Sport und mache auch in meiner Freizeit am liebsten Sport, bin entspannt und genieße das Leben. Jedes Wochenende Partys mag ich nicht so. Dass die Wohnung sauber ist, ist wichtig für mich – mit oder ohne Putzplan.
+Flo
+
+Zimmer in WG (möbliert), Miete: maximal 500 € Suche ein Zimmer mit Bett und Kleiderschrank in einer netten WG mit coolen Menschen, bin 25 Jahre und arbeite als Restaurant-Koch, gerade lebe ich noch in Österreich, habe aber ab Juni in Berlin-Mitte eine Stelle und suche ein Zimmer in der Nähe. Bin offen, nicht kompliziert und freundlich. Weil ich abends arbeite, schlafe ich morgens gern lange.
+Johannes
+
+Zimmer in WG ab November, bis 200 Euro Miete Hallo! Ich bin Musikerin (kann mit Kopfhörern üben!!!!!), Tai-Chi und Qigong Fan und suche ab WG Zimmer ab 01.11. Ich brauche nicht so viel Platz (da 10–15 Quadratmeter sind genug), bin eher ruhig, sauber, koche gern. Ich habe einen grünen Daumen und liebe Pflanzen. Eigentlich lebe ich in Stuttgart und will es nach Berlin zurück und möchte hier mein Studium (E-Gitarre) abschließen.
+Nadja Qureschi
+
+
+
+
+
+Gehst du gern ins Theater?
+Nein, das interessiert mich nicht so sehr, ich gehe lieber ins Kino.
+
+Machst du gern Sport?
+Eigentlich schon, aber ich habe nicht so viel Zeit. Ich jogge einmal in der Woche und gehe am Wochenende gern wandern oder fahre Fahrrad.
+
+Lädst du oft Freunde ein?
+Ja. Am Wochenende lade ich gern Freunde ein. Wir essen zusammen oder machen einen Spieleabend.
+
+Magst du Haustiere und hast du welche?
+Nein. Ich mag keine Tiere in der Wohnung.
+
+Spielst du ein Musikinstrument?
+Früher habe ich Geige gespielt und hatte Unterricht, jetzt habe ich keine Zeit mehr.
+
+Kochst du gern?
+Ja, ich kann prima Pasta machen.
+
+Was machst du gern in deiner Freizeit?
+Ich spiele Improtheater, bin gern draußen, lese viel und treffe oft Freunde.
+
+
+
+
+
+
+
+
+
+
+Die wichtigsten Ernährungstrends von heute
+
+Vegan
+Veganer essen wie die Vegetarier kein Fleisch und keinen Fisch. Aber nicht nur das. Sie essen überhaupt keine Produkte von Tieren, also auch keine Eier oder Milchprodukte. Außerdem sollen die Zutaten für die vegane Ernährung Bioprodukte sein. Einige Veganer glauben, dass sie lange jung bleiben und dass man viele Krankheiten gar nicht bekommt, wenn man vegan isst.
+
+Raw Food
+Raw Food sind Karotten- und Gurkensticks? Langweilig und trocken? Nein, man kocht das Gemüse nicht, aber man kann es mixen, trocknen und vieles mehr. Obst und Müsli, kalte Suppen, Smoothies und Brot aus Nüssen kann man so zubereiten. Bis 40 Grad kann man die Zutaten warm machen. Sie verlieren aber Vitamine, wenn man sie über 40 Grad erwärmt, sagen die Fans von Raw Food. Wie die Veganer essen Raw Food-Fans auch keine Produkte von Tieren.
+
+Paläo
+Die Paläofans essen wie die Menschen vor über 100 000 Jahren. Früher hatten die Menschen noch keine Milchprodukte. Milch, Joghurt, Butter und Käse darf man also nicht essen. Brot, Nudeln, Reis, also alles aus Getreide, sind auch verboten. Wenn man paläo essen will, isst man viel Fleisch, zum Beispiel Rindfleisch oder Schweinefleisch mit wenig Fett, Nüsse, Eier, Obst und natürlich viel Gemüse.
+
+
+
+
+
+
+Inga
+Diese Person isst keine Produkte von Tieren. Sie isst Getreide nur, wenn es nicht gebacken ist. Das Gemüse kocht sie nicht, weil es dann mehr Vitamine hat.
+
+Torben
+Diese Person isst nie Fleisch, Fisch, Eier, Joghurt, Käse und Butter. Das Gemüse isst sie frisch oder gekocht. Sie isst auch Nudeln und Brot.
+
+Wolfgang
+Diese Person isst alles, aber sie isst gesund. Sie kocht selbst und isst wenig Fleisch, Fett und Zucker. Die neuen Ernährungstrends findet sie gar nicht gut.
+
+Magdalena
+Inga findet, dass diese Person Paläo essen kann. Sie isst nämlich gerne Fleisch. Aber dann darf sie keine Milch, keinen Joghurt und Käse und auch nichts aus Getreide essen. Sie möchte aber nicht Paläo essen.
+
+
+
+
+Doch, aber nur sehr selten. Mein Bauch tut immer weh, wenn ich das esse.
+
+
+
+
+Ich bin immer so müde.
+
+Ich habe starke Kopfschmerzen.
+
+Ich bin total fit.
+
+Mein Bauch tut sehr weh.
+
+Ich bin wieder total erkältet.
+
+Mir ist so schlecht.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hallo,
+mein Name ist Merle, ich bin 28 Jahre alt und ich habe Probleme mit der Gesundheit. Nach dem Essen habe ich oft Bauchschmerzen. Ernähre ich mich falsch? Ich esse eigentlich sehr gesund. Ich esse viel Obst und Gemüse, nur Vollkornbrot und Vollkornnudeln, Joghurt ohne Zucker usw. Die Bauchschmerzen sind schlimm. Ich kann dann gar nicht arbeiten und habe den ganzen Tag schlechte Laune. Aber mein Arzt sagt, ich bin gesund.
+
+
+Hanno
+Heute um 16:59
+
+Hallo Merle,
+ich kenne dein Problem. Seit einem Jahr esse ich nur Low-Carb. Man isst dann nur ganz wenig Getreide, Reis zum Beispiel. Das hat mir sehr geholfen. Ich habe keine Bauchschmerzen mehr und ich bin jetzt total fit und glücklich. Keine schlechte Laune mehr ☺. Manche Menschen können kein Getreide essen. Sie werden dann krank. Oder sie können keine Milchprodukte vertragen. Iss doch mal eine Woche gar kein Getreide. Vielleicht geht es dir dann besser. Du kannst mir gerne schreiben, wenn du mehr über Low-Carb wissen willst.
+Alles Gute!
+Hanno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maryam kauft gern auf dem Markt ein, wenn sie Zeit hat .
+Man hat immer frisches Obst und Gemüse, wenn man auf dem Markt einkauft .
+Julian isst viel Obst und Gemüse, wenn es ganz frisch ist .
+Kerstin hat immer viel Spaß, wenn sie mit ihren Freundinnen essen geht .
+Daniel trinkt immer einen Espresso, wenn er im Restaurant isst .
+Man kann im Internet viele Tipps und Rezepte finden, wenn man nicht kochen kann .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich habe oft keine Zeit zum Kochen.
+Es gibt bei uns nur einmal pro Woche Fleisch.
+Ich esse kein Fleisch.
+Ich finde, dass man manchmal ungesund und fett essen darf. Es soll ja auch schmecken.
+Ich denke, dass gesunde Ernährung für Kinder sehr wichtig ist.
+Ich wünsche mir, dass es allen Tieren gut geht.
+
+
+
+
+
+
+
+
+
+Wenn Freunde zum Essen kommen, koche ich etwas Besonderes .
+Wenn man gesund essen will, soll man wenig Fett und Zucker essen .
+Wenn das Essen zu fett ist, bekomme ich meistens Bauchschmerzen .
+Wenn ich krank bin , trinke ich nur Wasser und Tee .
+Wenn ich Hunger habe , bekomme ich schlechte Laune .
+Wenn ich Zeit habe , genieße ich mein Frühstück .
+
+
+
+
+
+
+
+
+Beispiel: Sport machen – ich – wenn
+Wenn ich Sport mache, habe ich danach einen Riesenhunger.
+
+keine Milchprodukte – ich – essen – wenn
+Wenn ich keine Milchprodukte esse, geht es mir gut.
+
+meine Mutter – kochen – wenn – für mich
+Wenn meine Mutter für mich kocht, schmeckt das Essen richtig lecker.
+
+du – Lust haben – wenn
+Wenn du Lust hast, kochen wir heute Abend dein Lieblingsessen.
+
+morgens – wenn – trinken – du – viel Wasser
+Wenn du morgens viel Wasser trinkst, hast du nicht so viel Hunger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hauptsache gesund?
+
+Wir haben Menschen aus ganz Deutschland nach ihrer Ernährung gefragt. Gesundes Essen ist für sie nicht so wichtig wie der Geschmack. Lecker muss das Essen sein, das finden 45 % der Deutschen sehr wichtig, besonders junge Leute bis 35 Jahre.
+
+Erst an zweiter Stelle kommt „gesund“. Nur 35 % sagen, dass sie sich wirklich gesund ernähren und das sind eher die älteren Menschen. Viele Deutsche wollen sich gerne gesund ernähren, tun es aber nicht. Sie nennen vor allen Dingen drei Gründe: zu wenig Geld, zu wenig Zeit, keine Möglichkeit bei der Arbeit.
+
+Fast 10 % der Frauen denken, dass Essen wenig Kalorien haben soll. Ältere Menschen achten mehr auf die Kalorien als junge Leute. Frauen machen auch mehr Diäten als Männer.
+
+Für ungefähr 6 % der Deutschen muss das Essen schnell gehen. Besonders für junge Leute sind andere Sachen wichtig. Das ist bei den alten Menschen natürlich anders. Sie essen gerne in Ruhe.
+
+Essen darf nicht viel kosten. Das sagen nur 5 % der Deutschen. Menschen mit wenig Geld müssen natürlich auf die Preise schauen. Aber insgesamt ist der Preis nicht so wichtig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was ist Ihnen bei Ihrer Ernährung wichtig?	
+Ich finde wichtig, dass das Essen gut schmeckt und gesund ist.
+Ich finde, das Gemüse und das Fleisch müssen immer frisch sein.
+
+Ist es gut, wenn man sich vegan ernährt?	
+Ich glaube nicht, dass so eine Ernährung gesund ist.
+Ja, wenn man zum Beispiel Probleme mit Milchprodukten hat.
+
+Was kochen Sie gern?	
+Ich finde Sushi toll. Das mache ich manchmal für Freunde.
+Ich mache gern Nudeln, das geht schnell und schmeckt gut.
+
+Glauben Sie, dass Sie sich gesund ernähren?	
+Ja, ich esse sehr wenig Süßigkeiten, weil das nicht gesund ist.
+Ja, weil ich viel Obst und Gemüse esse.
 
 

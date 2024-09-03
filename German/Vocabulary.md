@@ -314,6 +314,43 @@ Ordnung
 Pünktlichkeit
 Lieblingsmusik
 Zusammenleben
+Getränke
+der Saft
+der Kaffee
+der Wein
+der Tee
+das Bier
+das Mineralwasser
+Getreideprodukte
+die Torte
+der Kuchen
+das Brötchen
+der Reis
+die Nudeln
+Obst
+der Apfel
+die Birne
+die Zitrone
+die Banane
+die Orange
+Milchprodukte
+der Käse
+die Butter
+der Joghurt
+Gemüse
+die Karotte
+die Gurke
+die Tomate
+Fleisch/Fisch
+der Fisch
+das Hähnchen
+die Wurst
+das Rindfleisch
+das Schweinefleisch
+ernähre
+Paläo
+laune
+sportverein
 
 
 

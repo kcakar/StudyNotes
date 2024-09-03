@@ -1812,7 +1812,189 @@ ___
 </details>
 
 
+___
 
+
+#### Conditional sentences
+<details>
+
+  <summary>
+  Conditional sentences
+  </summary>
+
+  **1. Wenn**
+  - **Meaning**: "when," "if"
+  - **Usage**: Used for general conditions that can be real or hypothetical.
+
+  **Structure:**
+  - Conditional clause: Wenn + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Wenn es regnet, bleibe ich zu Hause.
+    - **Conditional Clause**: Wenn es regnet (Wenn + Subject + Object + Verb)
+    - **Main Clause**: bleibe ich zu Hause (Subject + Verb + Object/Complement)
+  - Ich kaufe ein neues Auto, wenn ich genug Geld habe.
+    - **Main Clause**: Ich kaufe ein neues Auto (Subject + Verb + Object)
+    - **Conditional Clause**: wenn ich genug Geld habe (Wenn + Subject + Object + Verb)
+  - Wenn du Hilfe brauchst, ruf mich an.
+    - **Conditional Clause**: Wenn du Hilfe brauchst (Wenn + Subject + Object + Verb)
+    - **Main Clause**: ruf mich an (Verb + Subject + Object)
+
+  **2. Falls**
+  - **Meaning**: "in case," "if"
+  - **Usage**: Often used in more formal or cautious statements, suggesting a possibility.
+
+  **Structure:**
+  - Conditional clause: Falls + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Falls du morgen Zeit hast, können wir uns treffen.
+    - **Conditional Clause**: Falls du morgen Zeit hast (Falls + Subject + Object + Verb)
+    - **Main Clause**: können wir uns treffen (Verb + Subject + Object)
+  - Ich nehme einen Regenschirm mit, falls es regnet.
+    - **Main Clause**: Ich nehme einen Regenschirm mit (Subject + Verb + Object)
+    - **Conditional Clause**: falls es regnet (Falls + Subject + Object + Verb)
+  - Falls er kommt, werde ich ihm Bescheid sagen.
+    - **Conditional Clause**: Falls er kommt (Falls + Subject + Object + Verb)
+    - **Main Clause**: werde ich ihm Bescheid sagen (Verb + Subject + Object)
+
+  **3. Sofern**
+  - **Meaning**: "provided that," "as long as"
+  - **Usage**: Used to indicate a specific condition that must be fulfilled.
+
+  **Structure:**
+  - Conditional clause: Sofern + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Sofern das Wetter gut ist, machen wir ein Picknick.
+    - **Conditional Clause**: Sofern das Wetter gut ist (Sofern + Subject + Object + Verb)
+    - **Main Clause**: machen wir ein Picknick (Verb + Subject + Object)
+  - Du darfst mitgehen, sofern du deine Hausaufgaben gemacht hast.
+    - **Main Clause**: Du darfst mitgehen (Subject + Verb + Object)
+    - **Conditional Clause**: sofern du deine Hausaufgaben gemacht hast (Sofern + Subject + Object + Verb)
+  - Sofern die Prüfung besteht, bekommt er den Job.
+    - **Conditional Clause**: Sofern die Prüfung besteht (Sofern + Subject + Object + Verb)
+    - **Main Clause**: bekommt er den Job (Verb + Subject + Object)
+
+  **4. Sobald**
+  - **Meaning**: "as soon as"
+  - **Usage**: Used to indicate that one action will happen immediately after another condition is met.
+
+  **Structure:**
+  - Conditional clause: Sobald + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Sobald ich nach Hause komme, rufe ich dich an.
+    - **Conditional Clause**: Sobald ich nach Hause komme (Sobald + Subject + Object + Verb)
+    - **Main Clause**: rufe ich dich an (Verb + Subject + Object)
+  - Er wird sich melden, sobald er Zeit hat.
+    - **Main Clause**: Er wird sich melden (Subject + Verb + Object)
+    - **Conditional Clause**: sobald er Zeit hat (Sobald + Subject + Object + Verb)
+  - Sobald der Film endet, gehen wir essen.
+    - **Conditional Clause**: Sobald der Film endet (Sobald + Subject + Object + Verb)
+    - **Main Clause**: gehen wir essen (Verb + Subject + Object)
+
+  **5. Bevor**
+  - **Meaning**: "before"
+  - **Usage**: Used to indicate that one action occurs before another condition is met.
+
+  **Structure:**
+  - Conditional clause: Bevor + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Bevor du gehst, musst du die Küche aufräumen.
+    - **Conditional Clause**: Bevor du gehst (Bevor + Subject + Object + Verb)
+    - **Main Clause**: musst du die Küche aufräumen (Verb + Subject + Object)
+  - Sie ging einkaufen, bevor der Laden schloss.
+    - **Main Clause**: Sie ging einkaufen (Subject + Verb + Object)
+    - **Conditional Clause**: bevor der Laden schloss (Bevor + Subject + Object + Verb)
+  - Ich mache meine Hausaufgaben, bevor ich ins Bett gehe.
+    - **Main Clause**: Ich mache meine Hausaufgaben (Subject + Verb + Object)
+    - **Conditional Clause**: bevor ich ins Bett gehe (Bevor + Subject + Object + Verb)
+
+  **6. Bis**
+  - **Meaning**: "until"
+  - **Usage**: Used to indicate that something happens up to the point when a condition is met.
+
+  **Structure:**
+  - Conditional clause: Bis + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Warte hier, bis ich zurückkomme.
+    - **Conditional Clause**: bis ich zurückkomme (Bis + Subject + Object + Verb)
+    - **Main Clause**: Warte hier (Verb + Subject)
+  - Sie bleibt, bis der Film zu Ende ist.
+    - **Conditional Clause**: bis der Film zu Ende ist (Bis + Subject + Object + Verb)
+    - **Main Clause**: Sie bleibt (Subject + Verb)
+  - Ich arbeite, bis ich alles fertig habe.
+    - **Conditional Clause**: bis ich alles fertig habe (Bis + Subject + Object + Verb)
+    - **Main Clause**: Ich arbeite (Subject + Verb)
+
+  **7. Solange**
+  - **Meaning**: "as long as"
+  - **Usage**: Used to indicate that a condition continues to be true as long as another condition is met.
+
+  **Structure:**
+  - Conditional clause: Solange + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Solange es nicht regnet, spielen die Kinder draußen.
+    - **Conditional Clause**: Solange es nicht regnet (Solange + Subject + Object + Verb)
+    - **Main Clause**: spielen die Kinder draußen (Verb + Subject + Object)
+  - Ich bleibe hier, solange du mich brauchst.
+    - **Main Clause**: Ich bleibe hier (Subject + Verb + Object)
+    - **Conditional Clause**: solange du mich brauchst (Solange + Subject + Object + Verb)
+  - Solange du lernst, wirst du gute Noten bekommen.
+    - **Conditional Clause**: Solange du lernst (Solange + Subject + Object + Verb)
+    - **Main Clause**: wirst du gute Noten bekommen (Verb + Subject + Object)
+
+  **8. Außer wenn**
+  - **Meaning**: "unless"
+  - **Usage**: Used to introduce an exception to a condition.
+
+  **Structure:**
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+  - Conditional clause: Außer wenn + [Subject] + [Object] + [Verb]
+
+  **Examples:**
+  - Ich gehe spazieren, außer wenn es regnet.
+    - **Main Clause**: Ich gehe spazieren (Subject + Verb)
+    - **Conditional Clause**: außer wenn es regnet (Außer wenn + Subject + Object + Verb)
+  - Wir fahren ans Meer, außer wenn es zu kalt ist.
+    - **Main Clause**: Wir fahren ans Meer (Subject + Verb + Object)
+    - **Conditional Clause**: außer wenn es zu kalt ist (Außer wenn + Subject + Object + Verb)
+  - Ich komme pünktlich, außer wenn der Bus Verspätung hat.
+    - **Main Clause**: Ich komme pünktlich (Subject + Verb)
+    - **Conditional Clause**: außer wenn der Bus Verspätung hat (Außer wenn + Subject + Object + Verb)
+
+  **9. Angenommen, dass**
+  - **Meaning**: "assuming that," "supposing that"
+  - **Usage**: Used to introduce a hypothetical or assumed condition.
+
+  **Structure:**
+  - Conditional clause: Angenommen, dass + [Subject] + [Object] + [Verb]
+  - Main clause: [Subject] + [Verb] + [Object/Complement]
+
+  **Examples:**
+  - Angenommen, dass du morgen Zeit hast, könnten wir ins Kino gehen.
+    - **Conditional Clause**: Angenommen, dass du morgen Zeit hast (Angenommen, dass + Subject + Object + Verb)
+    - **Main Clause**: könnten wir ins Kino gehen (Verb + Subject + Object)
+  - Angenommen, dass der Plan funktioniert, werden wir das Projekt starten.
+    - **Conditional Clause**: Angenommen, dass der Plan funktioniert (Angenommen, dass + Subject + Object + Verb)
+    - **Main Clause**: werden wir das Projekt starten (Verb + Subject + Object)
+  - Angenommen, dass es nicht regnet, fahren wir mit dem Fahrrad.
+    - **Conditional Clause**: Angenommen, dass es nicht regnet (Angenommen, dass + Subject + Object + Verb)
+    - **Main Clause**: fahren wir mit dem Fahrrad (Verb + Subject + Object)
+
+
+</details>
 
 
 
